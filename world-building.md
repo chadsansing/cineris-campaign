@@ -78,7 +78,7 @@ The elves usually sail down the east coast of Cineris, past the mountains, and a
 
 Portia is the seat of the wasteland dwarves' government and its economic powerhouse. Several corporations, like Magmatic, have their home in Portia, and several executives, like Root Stoneshaper, live in its walled districts.
 
-#### The Elven Forest
+#### The elven forest
 
 The deep elven forst is an arboreal paradise, but as you approach it you pass through ring after ring of exploded and used up trees that have incubated indsutrial gigaphds or Soma producers. The inner forest is shrinking as the Soma industry's ring shrinks in circumference. 
 
