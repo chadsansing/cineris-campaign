@@ -38,7 +38,7 @@ Here are some steps you can take to get started on GitHub if you'd like to try i
 
 1. First, create an account on [GitHub](https://github.com).
 
-2. Then visit [this repo](NEED LINK).
+2. Then visit [this repo](https://github.com/chadsansing/cineris-campaign).
 
 3. Next, click on the "Issues" tab near the top of the page.
 
