@@ -76,7 +76,7 @@ The humans sail along the southern shore of Cineris to get to Portia or travel o
 
 The elves usually sail down the east coast of Cineris, past the mountains, and around the southern coast back to Portia rather than risk the overland route through the mountains and wastes.
 
-Portia is the seat of the wasteland dwarves' government and its economic powerhouse. Several corporations, like Magmatic, have their home in Portia, and several executive like Root Stoneshaper live in its walled districts.
+Portia is the seat of the wasteland dwarves' government and its economic powerhouse. Several corporations, like Magmatic, have their home in Portia, and several executives, like Root Stoneshaper, live in its walled districts.
 
 #### The Elven Forest
 
