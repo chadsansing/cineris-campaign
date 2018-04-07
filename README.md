@@ -2,6 +2,8 @@
 
 Game master: [Chad Sansing](mailto:csansing@gmail.com), [@chadsansing](https://twitter.com/chadsansing)
 
+Roll20 link: [https://app.roll20.net/join/3196521/G7lx7Q](https://app.roll20.net/join/3196521/G7lx7Q)
+
 ## Welcome to Cineris!
 
 Cineris is a homebrew campaign setting for [Cryptomancer](http://cryptorpg.com), a fantasty role-playing game about information security.
