@@ -1,4 +1,4 @@
-# RPG campaign license
+# Cineris campaign license
 
 All non-code contributions are shared under a [Creative Commons-Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) (CC-BY-SA) license. 
 
