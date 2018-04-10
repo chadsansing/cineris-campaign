@@ -20,11 +20,11 @@ In the midst of this uneasy era, your characters have all been drawn together by
 
 ## Geography
 
-Cineris is an island continent no unlike Australia in its shape and size.
+Cineris is an island continent not unlike Australia in its shape and size.
 
 The entire western half of the island is covered by farmable plains. Below ground, ancestral dwarven settlements exist alongside rich shard crystal reserves. The dwarves made their settlements relatively close to the surface so they could noth farm and mine.
 
-Mount Cineris, a dormant volcano sits roughly in the middle of the continent. A line of mountains splits the continnt in 2, running north-south. 
+Mount Cineris, a dormant volcano sits roughly in the middle of the continent. A line of mountains splits the continent in 2, running north-south. 
 
 Another line of mountains splits the eastern half of the continent in 2, running east-west from Mount Cineris to the eastern coast.
 
@@ -36,15 +36,15 @@ Human colonizers have taken the entire western half of Cineris from the dwarves.
 
 One faction of dwarves allied themselves with the elves to plot an eventual overthrow of the human settlements.
 
-Another retreated to the arid wastelands and established coast cities. The darves onc sent mining parties and propsectors to bring heavy metals and othe rgems back west, but now they occupy these coastal cities and more permanent mines in the mountains near the riverheads so they can send materials downriver by barge.
+Another retreated to the arid wastelands and established coast cities. The darves once sent mining parties and propsectors to bring heavy metals and other gems back west, but now they occupy these coastal cities and more permanent mines in the mountains near the riverheads so they can send materials downriver by barge.
 
 ## Trade
 
-The humans monopolize shard crystal harvesting and most food production, though the elves and woodland warves can svavenge and range for sustenance.
+The humans monopolize shard crystal harvesting and most food production, though the elves and woodland dwarves can scavenge and range for sustenance.
 
-They elves and woodland dwards control Soma production and woodcrafts. However, they destroy part of their forst every time a tree is sacrificed to grow a gigaphid for industrial or military use or to incubate a gigaphid Soma producer. They can extract value from the forest for a long time, but not forever.
+They elves and woodland dwarves control Soma production and woodcrafts. However, they destroy part of their forrest every time a tree is sacrificed to grow a gigaphid for industrial or military use or to incubate a gigaphid Soma producer. They can extract value from the forest for a long time, but not forever.
 
-The wasteland dwarves control prescious gem and metal mining. They cannot live without food from the humans, but the humans can't maintain their military strength without metals from th dwarves.
+The wasteland dwarves control prescious gem and metal mining. They cannot live without food from the humans, but the humans can't maintain their military strength without metals from the dwarves.
 
 - Humans send crystals and food to the dwarves and elves.
 - Elves send soma and woodcraft to the dwarves and humans.
@@ -54,7 +54,7 @@ The wasteland dwarves control prescious gem and metal mining. They cannot live w
 
 The humans are assimilation machines, mashing-up everything useful, fun, and innovative from the dwarves and elves. They are genial, but arrogant, believing themselves to be the winners of Cineris. They can't imagine losing their gains.
 
-The elves are quiet and reserved, distrustful and resentful of the humans and hateful of their dependence on them. They have some deep, insticual unease about becoming drug dealers to the world, but they also nurture a hope that the woodland dwarves will help them expel the humans, hurting the market for Soma, and forcing them to return to a more balanced and harmonious life with nature.
+The elves are quiet and reserved, distrustful and resentful of the humans and hateful of their dependence on them. They have some deep, instinctual unease about becoming drug dealers to the world, but they also nurture a hope that the woodland dwarves will help them expel the humans, hurting the market for Soma, and forcing them to return to a more balanced and harmonious life with nature.
 
 The woodland dwarves are grim allies of the elves, working alongside them and adopting their cultures to ensure their survival and the chance of striking back at the humans. They will not forget that the elves offered to harbor them.
 
@@ -72,7 +72,7 @@ Portia is the capital city of the dwarven wasteland. It is above ground at the d
 
 The city is otherwise lively and is the hub of trade between the dwarves and humans and dwarves and elves. 
 
-The humans sail along the southern shore of Cineris to get to Portia or travel overland aling the southern coast. 
+The humans sail along the southern shore of Cineris to get to Portia or travel overland sailing the southern coast. 
 
 The elves usually sail down the east coast of Cineris, past the mountains, and around the southern coast back to Portia rather than risk the overland route through the mountains and wastes.
 
@@ -80,9 +80,9 @@ Portia is the seat of the wasteland dwarves' government and its economic powerho
 
 #### The elven forest
 
-The deep elven forst is an arboreal paradise, but as you approach it you pass through ring after ring of exploded and used up trees that have incubated indsutrial gigaphds or Soma producers. The inner forest is shrinking as the Soma industry's ring shrinks in circumference. 
+The deep elven forst is an arboreal paradise, but as you approach it you pass through ring after ring of exploded and used up trees that have incubated industrial gigaphds or Soma producers. The inner forest is shrinking as the Soma industry's ring shrinks in circumference. 
 
-Most elves and almost all of thw woodland dwarves live in the outermost still-living ring of the forest that is being used for Soma production right now. In this ring, you can find a mix of temporary ground dwellings around trees (like Black Rock Cities) used for trade and mirgrant labor populations and elven dwelllings in the trees themselves. 
+Most elves and almost all of the woodland dwarves live in the outermost still-living ring of the forest that is being used for Soma production right now. In this ring, you can find a mix of temporary ground dwellings around trees (like Black Rock Cities) used for trade and mirgrant labor populations and elven dwelllings in the trees themselves. 
 
 Deeper inside the forest, you find more traditional elven outposts, villages, and cities up in the branches and canopy of the oldest growth. There is history and safety there there, but not as much power as there is in the Soma ring. 
 
