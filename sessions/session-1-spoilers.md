@@ -196,7 +196,11 @@ Key outcomes:
 
 "The dwarves last a few minutes, which surprises you. They are excellent fighters and manage to wound the Risk Eater several times, but it is relentless and seemingly disregards its own safety to get inside the guard of each dwarf and stab and rip them to death."
 
-"Then there is a strange thing; the last dwarf to die seems to stutter in an impossible quick movement. They stepped into the Risk Eater's attack and are impaled on its dagger, but then they seem to step backwards and glash forwards again, back onto the blade, but this time with adaager drawn and plunged into the Risk Eater's chest."
+"Then there is a strange thing; the last dwarf to die seems to stutter in an impossible quick movement. They stepped into the Risk Eater's attack and are impaled on its dagger, but then they seem to step backwards and glash forwards again, back onto the blade, but this time with adaager drawn and plunged into the Risk Eater's chest. He lets out a whisper."
+
+PCs can make a Wits/Tracking check.
+
+*"Gotnafisker."* This will be half of a soul-name, true-name encryption scheme later in the campaign.
 
 "The Risk Eater pulls its blades from the dwarf, staggers backwards, falls to the ground, and begins inching its way down the alley towards you."
 
@@ -214,7 +218,7 @@ Use the wounded Rik Eater stats above for the fight. If threatened, the Risk Eat
 
 The PCs can cautiously press themselves against the alley walls and make their way around the Risk Eater to search the dwarves bodies. If they do, they find curious red shards and a number of accessories - pouches, boots, hilts - stamped with the Magmatic brand icon.
 
-The PCs can pass Wits/Craft checks to identify the brand and track down local resellers, where they will eventually be found by Stonehsaper's cloaks and invited to the Stoneshaper keep.
+The PCs can pass Wits/Craft checks to identify the brand and track down local resellers, where they will eventually be found by Stoneshaper's cloaks and invited to the Stoneshaper keep.
 
 The PCs can also pass Wits/Craft checks to see what they already know about Magmatic and perhaps even find their way to Stoneshaper Keep on their own. The PCs might know that Magmatic:
 
@@ -335,7 +339,11 @@ The PCs can steal the cloak with excellent role-play and/or Speed/Stealth checks
 
 ***If C...***
 
-Petra wakes up as the PCs prepare to murder her in her sleep and vfights back, using the stats and spells above. Her primary aim will be to escape with magic and the cloak to hide and live another day.
+Petra wakes up as the PCs prepare to murder her in her sleep and fights back, using the stats and spells above. Her primary aim will be to escape with magic and the cloak to hide and live another day.
+
+If the PCs kill Petra, they can make a Wits/Tracking check to hear her last whispers.
+
+*"Aarok."* This will be a major PC later in the campaign.
 
 After some pursuit and successful Speed/Athletics and Speed/Acrobatics checks, the PCs corner Petra and can try option A or C again. Petra will stand and fight when cornered.
 
