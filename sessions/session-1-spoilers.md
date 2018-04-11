@@ -172,7 +172,7 @@ Generic elite cryptoadmin stats.
 
 ## Story
 
-## Backround
+## Background
 
 The PCs should play any type of character they'd like. Their back stories should all have them in Portia for some reason at the start of this session.
 
