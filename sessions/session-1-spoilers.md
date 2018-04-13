@@ -265,7 +265,7 @@ The PCs can then...
 
 The Silver Mask can offer 1 of 3 different safe houses.
 
-- A guard house on Stoneshaper Keep grounds. This is highly visible. Th PCs would have to avoid violence at all costs, as well as avoid being discovered during intrigue, if they were an official part of the Magmatic organization.
+- A guard house on Stoneshaper Keep grounds. This is highly visible. The PCs would have to avoid violence at all costs, as well as avoid being discovered during intrigue, if they were an official part of the Magmatic organization.
 - A block in the market district Magmatic had been converting into a large commercial space.
 - A warehouse Magmatic no longer uses near the port - it's too far off of the optimal delivery routes for Magmatic's goods.
 
