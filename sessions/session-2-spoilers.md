@@ -208,7 +208,7 @@ See [session 1](session-1-spoilers.md).
 
 The PCs must again decide whom to serve before going after the second artificer. 
 
-*If the PCs serve Root...*
+***If the PCs serve Root...***
 
 The Silver Mask will contact the PCs through the red crystal shardnet. 
 
@@ -238,7 +238,7 @@ The PCs can leave Embrey to his madness or take him back to Root (or another pat
 
 Downtime at the safehouse follows this encounter.
 
-*If the PCs serve Dril...*
+***If the PCs serve Dril...***
 
 Dril will send the PCs after Hamner Dreadfist who has fled west to the human lands. He wants to go up the Black River to the Black Lake, a caldera lake, in the N-S mountains. 
 
@@ -256,7 +256,7 @@ Dril wants Hamner's synthetic shards to protect his network from Risk Eater surv
 
 However the PCs resolve the situation, Dril will offer them secured shards after the next session. Dril is not interested in Hamner. Root will reward the PCs with riches, but keep the tech. He will imprison Hamner and poison him, Thufir Hawat style, to keep him working for Magmatic. The PCs might...?
 
-*If the PCs serve themselves...*
+***If the PCs serve themselves...***
 
 The PCs can use Wally's knowledge to query after the missing artifcers and find clues as many artifcers as successes they roll for query. Cantor is going to sell prosthetic shard eyes to crypto dens and then use the money to leave Cineris. Root will reward the PCs and take the tech. Dril will eventually replace one of her eyes and offer to do the same for PCs. Root will imprison Cantor and torture here with the eyes. Dril will let her leave on *The Weeping Angel*. Jem is going to Aarok's tomb to prove her worth as Aarok's champion over Root. Jem will fith with Soul Swallower, a sword that consumes victims' true names and keyword knowledge. Aarok's tomb is in the E-W mountains and a tomb Golem surrounds him and will fight anyone who tries to open it, mazing itself as a last resort. Jem will need to be defeated to get the sword. Aarok's bones will mean a lot to Root, but Dril will also recognize them as a relic worth keeping as a bargaining chip.
 
