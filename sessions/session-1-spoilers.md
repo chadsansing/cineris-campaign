@@ -172,7 +172,7 @@ Generic elite cryptoadmin stats.
 
 ## Story
 
-## Background
+### Background
 
 The PCs should play any type of character they'd like. Their back stories should all have them in Portia for some reason at the start of this session.
 
@@ -184,9 +184,9 @@ Key outcomes:
 - PCs establish a safe house with their patron or on their own.
 - PCs learn about Root and Magmatic, Dril, and the artificers.
 
-## Scenes & narrative flow
+### Scenes & narrative flow
 
-### Scene 1 - The Streets of Portia
+#### Scene 1 - The Streets of Portia
 
 "Fate, chance, or something more sinister has brought you all to this corner of Portia on this day at this time. You hear quick, urgent shouts echoing through the alleys, then running footsteps, then the jostle and clink of armor and arms."
 
@@ -239,7 +239,7 @@ The PCs can follow the cloaks back to Stoneshaper Keep or confront them. If the 
 
 If there is a fight, the cloaks try to evade and escape the PCs and can be tracked back to Stoneshaper Keep.
 
-### Scene 2 - Stoneshaper Keep
+#### Scene 2 - Stoneshaper Keep
 
 This scene is largley about negotiation.
 
@@ -297,7 +297,7 @@ During this time they may try to independently rent a safehouse, secure a shardn
 
 If the PCs refuse both Root and Dril, then they should role-play finding a safe house and shard net and begin their investigation of whatever leads they have, eventually discovering news about recent big-name departures from Magmatic and rumors of one of the former employee's whreabouts.
 
-### Scene 3 - Into the woods
+#### Scene 3 - Into the woods
 
 This is largely a world-buiulding and expository scene with light combat.
 
@@ -313,7 +313,7 @@ They should also witness a Gigaphid and elf battle against a Gnoll raiding party
 
 After getting to the deep forest and some elven communities, they can bribe a Soma addict to discover that a strange dwarf arrived just ahead of them and paid to be taken to a Soma flophouse in a Gigaphid tree another half-day's journey into the trees.
 
-### Scene 4 - The first artificer
+#### Scene 4 - The first artificer
 
 This is a scene of stealth, negotiation, combat, or maybe all 3.
 
@@ -349,7 +349,7 @@ After some pursuit and successful Speed/Athletics and Speed/Acrobatics checks, t
 
 Petra's death causes a Risk Eater check; her work is not yet done in their eyes; there are technologies she might yet produce that will help them exert total and perfect control.
 
-### Scene 5 - Meanwhile back at the safehouse
+#### Scene 5 - Meanwhile back at the safehouse
 
 This is a scene of denouement or unwinding for the session.
 
