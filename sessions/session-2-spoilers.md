@@ -2,7 +2,7 @@
 
 ***PCs, you should not read past this line of text.***
 
-***GMs, here are notes for session 1 of the Cineris campaign.***
+***GMs, here are notes for session 2 of the Cineris campaign.***
 
 ## Agenda
 
@@ -270,4 +270,13 @@ See [session 1](session-1-spoilers.md).
 
 Also:
 
-- 
+- *"There's something not right about that ship," or, "That ship looked pretty nice, though."*
+- *"I wonder what Root is doing right now," or, "Do you think we'll work for Magmatic forever?"*
+- *"All those red crystal shards; what are they doing out there," or, "Do you think we're being watched right now?"*
+- *"I bet something happened that made all these artificers leave at once," or, "Why would someone leave a place like Magmatic?"*
+- *"I keep thinking things can't get any weirder," or, "When do you think the Risk Eaters will find us?"*
+- *"Which stories about the old dwarves did your folks tell you?", or, "Ever get the feeling you know something you shouldn't?"*
+- *"I never knew the watseland was this bad," or, "How long do you think the humans can hold our homelands?"*
+- *"I hear soma is a hell of a drug," or, "What's the furthest you've ever been from home?"*
+- *"I wish I was at the safehouse," or, "What would happen if we never went back?"*
+- *"Sing us an elven song, Faelin," or, "Sing us a dwarven song, Ob."*
