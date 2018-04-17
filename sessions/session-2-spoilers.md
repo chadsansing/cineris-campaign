@@ -244,7 +244,7 @@ Dril will send the PCs after Hamner Dreadfist who has fled west to the human lan
 
 The PCs can do intersitials while pursuing him.
 
-Likely buyers include a syndicate of human crystal miners who want to keep the shards from market and soma deals who want to operate secretly. The humans want to sell them the synthetic crystals so they can profit without being traceable. The humans are paying the soma dealers to get Hamner to the lake and will buy the shards and deliver whatever Hamner has on him to the soma dealers, as well, with a promise to fulfill future orders from Hamner's plans. 
+Likely buyers include a syndicate of human crystal miners who want to keep the shards from market and soma dealers who want to operate secretly. The humans want to sell them the synthetic crystals so they can profit without being traceable. The humans are paying the soma dealers to get Hamner to the lake and will buy the shards and deliver whatever Hamner has on him to the soma dealers, as well, with a promise to fulfill future orders from Hamner's plans. 
 
 If Hamner makes it across the border, he will do so with help from woodland dwarves and humans who overrun the wasteland dwarf border post. The PCs will see nothing but dwarven bodies there, but they'll notice that some hav ridiculous, non-sensical beard braidings - these are woodland dwarves in wastland armor who infiltrated and attacked.
 
