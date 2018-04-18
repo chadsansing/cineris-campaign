@@ -299,7 +299,7 @@ If the PCs refuse both Root and Dril, then they should role-play finding a safe 
 
 #### Scene 3 - Into the woods
 
-This is largely a world-buiulding and expository scene with light combat.
+This is largely a world-building and expository scene with light combat.
 
 All of the information or rumors the PCs collect tells them to head north, into the elven forest. 
 
