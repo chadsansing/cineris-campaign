@@ -331,11 +331,11 @@ The PCs may...
 
 ***If A...***
 
-Petra is tired of Root, tired of running, and wants to be left to her craft. He cloak is her masterpiece, but she is willing to pay a high price to be free of Magmatic. The cloak can be bought for a ridicukous amount of money. Root or Dril can pay and their agents can instruct the PCs on negotiations via shard. This is a good oppottunity to practice good infosec.
+Petra is tired of Root, tired of running, and wants to be left to her craft. He cloak is her masterpiece, but she is willing to pay a high price to be free of Magmatic. The cloak can be bought for a ridiculous amount of money. Root or Dril can pay and their agents can instruct the PCs on negotiations via shard. This is a good oppottunity to practice good infosec.
 
 ***If B...***
 
-The PCs can steal the cloak with excellent role-play and/or Speed/Stealth checks. IF they fail. Petra wakes up, and the PCs must go back to option A or C.
+The PCs can steal the cloak with excellent role-play and/or Speed/Stealth checks. If they fail. Petra wakes up, and the PCs must go back to option A or C.
 
 ***If C...***
 
@@ -343,7 +343,7 @@ Petra wakes up as the PCs prepare to murder her in her sleep and fights back, us
 
 If the PCs kill Petra, they can make a Wits/Tracking check to hear her last whispers.
 
-*"Aarok."* This will be a major PC later in the campaign.
+*"He's not Aarok."* This will be a major PC later in the campaign.
 
 After some pursuit and successful Speed/Athletics and Speed/Acrobatics checks, the PCs corner Petra and can try option A or C again. Petra will stand and fight when cornered.
 
