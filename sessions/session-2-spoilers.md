@@ -260,6 +260,8 @@ However the PCs resolve the situation, Dril will offer them secured shards after
 
 The PCs can use Wally's knowledge to query after the missing artifcers and find clues as many artifcers as successes they roll for query. Cantor is going to sell prosthetic shard eyes to crypto dens and then use the money to leave Cineris. Root will reward the PCs and take the tech. Dril will eventually replace one of her eyes and offer to do the same for PCs. Root will imprison Cantor and torture here with the eyes. Dril will let her leave on *The Weeping Angel*. Jem is going to Aarok's tomb to prove her worth as Aarok's champion over Root. Jem will fith with Soul Swallower, a sword that consumes victims' true names and keyword knowledge. Aarok's tomb is in the E-W mountains and a tomb Golem surrounds him and will fight anyone who tries to open it, mazing itself as a last resort. Jem will need to be defeated to get the sword. Aarok's bones will mean a lot to Root, but Dril will also recognize them as a relic worth keeping as a bargaining chip.
 
+There is a non-zero chance the PCs will stumble across news of Cantor Gravelock in the Soma ring of the elvish forest when they contront Petra Bladebender and complete session 1. As GM, you should improvise what information they find and whether or not they meet Cantor or have the chance to engage over Cantor's technology on the road.
+
 ## Outcomes & rewards
 
 See [session 1](session-1-spoilers.md) for outcomes and rewards during "Meanwhile, back at the safehouse."
