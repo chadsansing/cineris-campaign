@@ -13,7 +13,7 @@ Cineris is a continent on Sphere, Cryptomancer's game world.
 On Cineris, dwarves, elves, and humans are interconnected in a complicated economy of scarcity.
 
 - Through superior numbers and a costly military campaign, humans colonized the dwarven homelands and now control crystal mining below ground and food production above ground.
-- Dwarves have split into two factions after retreating from their homelands. One faction mines an arid wasteland for precious minerals and gems; the other has assimilated into eleven society. 
+- Dwarves have split into two factions after retreating from their homelands. One faction mines an arid wasteland for precious minerals and gems; the other has assimilated into elven society. 
 - Elves have retreated with their dwarven allies into a deep forest to farm Soma and range for substinance.
 
 Although the wasteland dwarves hate their woodland cousins, both factions dream of retaking their homelands from the humans through temporary alliances, economics, intrigue, politics, and eventual violence. The Risk Eaters, Cryptomancer's actuarial-illimunati of the future, periodically nurture strife and chaos across Cineris to keep all of its inhabitants' ambitions in check.
