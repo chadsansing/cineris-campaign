@@ -182,9 +182,11 @@ There is a single, forgotten myth held only among some ancient dwarven clans tha
 
 There is a song about their two ways of seeing the world called Krigsgldr (by Hielung IRL).
 
-Neither cult practices its worship openly. While hundreds, if not thousands, may worship Aarok ins ecret, fewer than a hundred dwarves still know of Gotnafiskr and keep her faith, as well.
+Neither cult practices its worship openly. While hundreds, if not thousands, may worship Aarok in secret, fewer than a hundred dwarves still know of Gotnafiskr and keep her faith, as well.
 
 The PCs may also begin to piece together the strategic importance of the technologies their patron wants to recover and ask themselves why the technologies were bring developed in the first place and who knew about each or all of them together. Root's goal is to create a safe zone where Risk Eaters cannot see and to train an army of dwarven warriors there who can destroy humanity on Cineris, and perhaps beyond, in honor - or perhaps, eventually, in place of - Aarok.
+
+Emerging lore: Aarok's avatar is not actually interested in Root's narrative; it wants to restore Gotnafiskr, it's mate. Touching Gotnafiskr's scales incurs the jealousy of Aarok, and your fingers run with blood or maybe get burned.
 
 ### Scenes
 
