@@ -216,7 +216,7 @@ The Silver Mask will contact the PCs through the red crystal shardnet.
 
 Root will send the PCs after Old Embrey next. As per Embry's description above, he has fled to an ancestral claim - the Sootbeard Mine - to hide in a shadow-cached room.
 
-PCs will hav to travel by boat or coastal road to Visus, the Bridge City, to take a barge up the Ash River to the mine. The River is nearly clogged with a black mush of zombie fish-muck. Something is animating everything dead in the area.
+PCs will have to travel by boat or coastal road to Visus, the Bridge City, to take a barge up the Ash River to the mine. The River is nearly clogged with a black mush of zombie fish-muck. Something is animating everything dead in the area.
 
 Visus is a city split into two districts, each on one side of the Ash River. The human district is west of the river. The dwarven district is to the east. A draw bridge connects the two sides. It is up right now; PCs have to convince the dwarves to let them to a human side to hire a barge.
 
