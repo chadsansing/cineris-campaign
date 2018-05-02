@@ -133,9 +133,9 @@ She may become interested in building cryptogear prostheses from Gigaphid parts 
 
 ### Stock NPCs
 
-#### Elvish cloaks
+#### Elvish cloak
 
-These are stock elvish agents. 1d6 of them will be guarding the soma cryptowheel den Cantor Gravelock is trying to get to in the Soma Ring of the elvish woods.
+Stock elvish agent. 1d6 of them will be guarding the soma cryptowheel den Cantor Gravelock is trying to get to in the Soma Ring of the elvish woods.
 
 - HP 8
 - MP 8
@@ -149,6 +149,38 @@ These are stock elvish agents. 1d6 of them will be guarding the soma cryptowheel
   - Meld (3)
   - Chameleon (3)
   - Kill ball (3)
+  
+#### Dwarvem combat cloak
+
+Generic elite dwarven combat agent stats.
+
+- HP 8
+- MP 6
+- Combat 5d10
+- Magic 1d10 + 4d6
+- To hit 8
+- Dodge/Parry 3d10 + 2d6
+- Sword
+- Scale mail (light deflection; 2 successes to hit)
+
+#### Magic cloak
+
+Generic elite dwarven magic agent stats.
+
+- HP 6
+- MP 12
+- Combat 2d10 + 3d6
+- Magic 5d10
+- To hit 4
+- Dodge/Parry 1d10 + 4d6
+- Dagger
+- Spells
+  - Meld (3)
+  - Tracer (1)
+  - Kill bolt (3)
+  - Astral eyes (1)
+  - Astral trail (3)
+  - Shard scry (3)  
 
 #### Tomb golem
 
