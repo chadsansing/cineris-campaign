@@ -146,7 +146,7 @@ Generic elite magic agent stats.
 
 #### Crytpoadmin
 
-Generic elite cryptoadmin stats.
+Generic elite cryptoadmin stats. If the PCs serve Root, a Cryptoadmin like this will join their safehouse - it'll be Lebby Rotfist, whom the might recognize from #3.
 
 - HP 8
 - MP 10
