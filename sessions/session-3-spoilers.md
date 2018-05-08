@@ -118,3 +118,5 @@ PCs may also have:
 - *"I can't wait until we see Root again," or, "I wonder if we'll ever meet Dril."*
 - *"I don't believe in legends," or, "Are we supposed to survive this?"*
 - *"This is bigger than we thought," or, "There has to be something we're not seeing."*
+- *"Up in that tree, I realized something about myself," or, "Up in that tree, I realized something about you."*
+- *"Who is Root going to send for us?", or, "I wonder if we're ever going to make it back to Portia."*
