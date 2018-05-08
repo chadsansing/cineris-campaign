@@ -43,7 +43,7 @@ See [session-2-spoilers.md](session-2-spoilers.md) for:
 In this session, PCs should:
 
 - Recap character progression since the end of last session and the "First Artificer" adventure.
-- Contact Dril and arrange to move to a safehouse in Visus. This means leaving the mounts behind and incurring a 10% Magmatic risk.
+- Contact Dril and arrange to move to a safehouse in Visus. This means leaving the mounts behind if they take *The Weeping Angel* and incurring a 10% Magmatic risk for going AWOL on Root.
 - Choose an upgrade for the safe house.
 - Research, plan, and embark on the next quest to find another artifcer, as described in [session-2-spoilers.md](session-2-spoilers.md).
 - Confront the next artifcer and resolve their quest line.
