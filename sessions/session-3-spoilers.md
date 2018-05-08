@@ -60,7 +60,7 @@ At that point, the PCs will have some options. The preparation and execution of 
 
 If the PCs know Dril is Gotnafiskr by then, they may work to reunite Gotnafiskr with Aarok or to free Aarok from Root's influence or manipulation. The PCs may join Root once they see what's he's doing and try to reclaim the homelands. The PCs may reject the past and try to stop the war, though that seems unlikely. They may become mercenaries or a black ops unit. 
 
-The artifcer questline is their chance to shape the world and battlefields in the next part of the campaign.
+The artifcer quest line is their chance to shape the world and battlefields in the next part of the campaign.
 
 ### Scenes
 
