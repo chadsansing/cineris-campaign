@@ -31,6 +31,8 @@ Embrey goes into hiding in an ancestral claim known as the Sootbeard Mine up the
 
 He is hiding in a Maze-encrypted room that he has turned into a large Shadow Cache. If detected and found, he will be seen as insane - time passes differently in the cache realm and he has spent decades in old age fighting for his life against tormentors real, remembered, and imagined. Embrey will think the PCs are specters or maybe Risk Eaters come to get him and may fight or cower, depending on the needs of the party and the scene.
 
+Old Embrey also left jars full of echoeaters piled outside his room and a warning glyph or two; the bugs are dead; the glyphs are active, but may not register with him.
+
 PCs will not get information from him, but he has his red shard and the importance of the room he's in will be clear to those who find it.
 
 - HP 6
@@ -250,7 +252,7 @@ Root will send the PCs after Old Embrey next. As per Embry's description above, 
 
 PCs will have to travel by boat or coastal road to Visus, the Bridge City, to take a barge up the Ash River to the mine. The River is nearly clogged with a black mush of zombie fish-muck. Something is animating everything dead in the area.
 
-Visus is a city split into two districts, each on one side of the Ash River. The human district is west of the river. The dwarven district is to the east. A draw bridge connects the two sides. It is up right now; PCs have to convince the dwarves to let them to a human side to hire a barge.
+Visus is a city split into two districts, each on one side of the Ash River. The human district is west of the river. The dwarven district is to the east. A draw bridge connects the two sides. It is up right now; PCs have to convince the dwarves to let them to a human side to hire a barge if they ride there. If they Dril's ship to a new safehouse, they'll wind up in a sea cave just past the western, human side of the city.
 
 There is a lot of tension because of the nectrotic cataclysm happening right now.
 
@@ -266,7 +268,9 @@ He is mad and will babble about enemies past, present, and future, tormenting hi
 
 There is a metallic claninging throughout the mine coming from below. Louder the lower you go. Piercing; maddening; terrifying.
 
-If the PCs investigate and descened and perhaps get trapped on the bottom level of the mine, they will eventually discover a lone figure bagning on a forge in the darkness. This is a weak form of Aarok's avatar summoned by the faith of the small number of cultists that follow him now. As he bangs his hammer, his whole body shudders, sheds ash, glows red, and cools black. He is shaping a sword on an anvil/altar in front of a half destroyed or mineral-dripped carved relief mural of a sea serpent coiled around a volcano. There is a raised pool almost filled by a stalagmite by dripping heavy water. If the PCs attack, he will charge them, looming suddenly into a wave of magma that crashes and chases the PCs. They need to evade the wave or die. This avatar will be spent after this attack. If Aarok crests and disappates, the necrotic cataclysm will be over. 
+If the PCs investigate and descened and perhaps get trapped on the bottom level of the mine, they will eventually discover a lone figure bagning on a forge in the darkness. This is a weak form of Aarok's avatar summoned by the faith of the small number of cultists that follow him now. As he bangs his hammer, his whole body shudders, sheds ash, glows red, and cools black. He is shaping a sword on an anvil/altar in front of a half destroyed or mineral-dripped carved relief mural of a sea serpent in a lake coiled around a mountain that also seems to be a volcano with a city carved into its side. The sea serpent and mountain are encircled by a ring of mountains, as well. There is a raised pool almost filled by a stalagmite by dripping heavy water. If the PCs attack, he will charge them, looming suddenly into a wave of magma that crashes and chases the PCs. They need to evade the wave or die. This avatar will be spent after this attack. If Aarok crests and disappates, the necrotic cataclysm will be over. 
+
+If a PC touches the sea serpent part of the mural, their fingers run red with blood. This is Aarok's Jealousy, which bleeds the skin of anyone who touched Gotnafiskr or a representation of it.
 
 If the PCs leave Aarok alone, he will finish the sword, temper it in the pool, hold it up to the mural, and then collapse into a puddle of lava that seeps into the floor, leaving the sword behind. This will end the necrotic cataclysm.
 
