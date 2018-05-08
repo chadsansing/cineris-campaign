@@ -107,7 +107,7 @@ She has taken the sword - Soul Swallower - into the E-W mountains to search out 
 
 Cantor Gravelock is one of the 5 artificers.
 
-Cantor is a cryptogear prosthetics expert. She left Magmatic because she wasn't interested in making money off of designing the weapons Root and other descret Aarok disciples kept suggesting to her.
+Cantor is a cryptogear prosthetics expert. She left Magmatic because she wasn't interested in making money off of designing the weapons Root and other secret Aarok disciples kept suggesting to her.
 
 Cantor is heading north, into the Soma Ring of the elvish forest to sell her latest invention off to a cabal of cryptomancers that run a codebreaker farm. She is going to sell them shard-eyes that will let their soma addicts scroll through words at dizzying speeds inside their own heads.
 
@@ -188,7 +188,7 @@ This is a cryptogear tomb that looks like a sarcophagus and comes to life to fig
 
 The tomb golem Jem Brightblade wants to open is said to hold the bones of Aarok, the Molten Dread.
 
-The golem can be deactivated by voice command if someone knows the true name or soul name of the tomb's contents. The golem will filter that commend through the remains of the deceased to decrypt embedded instructions to stand down and open itself.
+The golem can be deactivated by voice command if someone knows the true name of the tomb's contents. The golem will filter that commend through the remains of the deceased to decrypt embedded instructions to stand down and open itself.
 
 - HP 12
 - MP 6
@@ -206,9 +206,9 @@ The golem can be deactivated by voice command if someone knows the true name or 
 
 Session 2 wraps up the first articer episode from session 1 and begins the next adventure to recover the technologies stolen from Magmatic. This session may introduce PCs to the cults of Aarok, the Molten Dread, and his foil, Gotnafiskr, the God Fish.
 
-Aarok is a dwarf who ascended to godhood as the avatar of dwarven identity and master of the forge. He holds dominion over renewal through descruction and transformation by fire. He is a dwarven nationalist hero and the subject of cult worship. He may be reincarnetd during this campaign. If he is, he may choose Root or Jem as a lieutenant and begin a war against the humans, elves, and woodland dwarves, but the targets he chooses and the objectives he pursues will all be mant to help him restore his foil and love, Gotnafiskr. Aarok may not let his lieutenant know this, and if his lieutenant finds out, they may turn on Aarok and try to ususrp his godhood and domains.
+Aarok is a dwarf who ascended to godhood as the avatar of dwarven identity and master of the forge. He holds dominion over renewal through descruction and transformation by fire. He is a dwarven nationalist hero and the subject of cult worship. He may be reincarnetd during this campaign. If he is, he may choose Root or Jem as a lieutenant and begin a war against the humans, elves, and woodland dwarves, but the targets he chooses and the objectives he pursues will all be meant to help him restore his foil and love, Gotnafiskr. Aarok may not let his lieutenant know this, and if his lieutenant finds out, they may turn on Aarok and try to ususrp his godhood and domains.
 
-Gotnafiskr is a dwarven god embodied by a fish or female figure with wavy hair who represents the unity of the worlds above and below ground. She is the source of water, but also its movement, its ever-changing nature, its destructive power, its wealth in bringing goods to trade over rivers and seas, and its power to temper, finish, and strengthen dwaven crafts. She represents being shaped and strengthened by water into your true form (even if it's dead and drowning). She is the subject of more obscure and infrequent cult worship than Aarok, as male power tropes have elevated Aarok in th dwarven pantheon above all others, although the dwarven gods were meant to serve as foils and complements to one another - the strike of the hammer and the silence in between those strikes.
+Gotnafiskr is a dwarven god embodied by a sea serpent (the god fish) or female figure with wavy hair who represents the unity of the worlds above and below ground. She is the source of water, but also its movement, its ever-changing nature, its destructive power, its wealth in bringing goods to trade over rivers and seas, and its power to temper, finish, and strengthen dwaven crafts. She represents being shaped and strengthened by water into your true form (even if it's dead and drowning). She is the subject of more obscure and infrequent cult worship than Aarok, as male power tropes have elevated Aarok in th dwarven pantheon above her, although the dwarven gods were meant to serve as foils and complements to one another - the strike of the hammer and the silence in between those strikes.
 
 There is a single, forgotten myth held only among some ancient dwarven clans that Aarok and Gotnafiskr were once married, that the dwarves are their offspring, and that they died together when Mount Cineris erupted and poisoned the wasteland with the heavy metal from the deep earth because humans (Risk Eaters) awoke in the middle of the earth and, ignorant of its beauty, destroyed everything in their path to get to the surface and spread like magma over the world. There are other stories about their balance, but they have been interpreted by Aarok's followers as stories of strife and conflict, rather than of cooperation and resolution between him and Gotnafiskr.
 
@@ -266,9 +266,13 @@ He is mad and will babble about enemies past, present, and future, tormenting hi
 
 There is a metallic claninging throughout the mine coming from below. Louder the lower you go. Piercing; maddening; terrifying.
 
-If the PCs investigate and descened and perhaps get trapped on the bottom level of the mine, they will eventually discover a lone figure bagning on a forge in the darkness. This is a weak form of Aarok's avatar summoned by the faith of the small number of cultists that follow him now. As he bangs his hammer, his whole body shudders, sheds ash, glows red, and cools black. He is shaping a pick. After a while, he will take the pick and begin excavating a wall. He is digging out the skeleton of a giant fish or sea monster. If the PCs interrupt, he will charge them, looming suddenly into a wave of magma that crashes and chases the PCs. They need to evade the wave or die. This avatar will be spent after this attack. The skeleton will not be discoverable without magic unless Aarok has begun to uncover it. If Aarok crests and disappates, the necrotic cataclysm will be over. 
+If the PCs investigate and descened and perhaps get trapped on the bottom level of the mine, they will eventually discover a lone figure bagning on a forge in the darkness. This is a weak form of Aarok's avatar summoned by the faith of the small number of cultists that follow him now. As he bangs his hammer, his whole body shudders, sheds ash, glows red, and cools black. He is shaping a sword on an anvil/altar in front of a half destroyed or mineral-dripped carved relief mural of a sea serpent coiled around a volcano. There is a raised pool almost filled by a stalagmite by dripping heavy water. If the PCs attack, he will charge them, looming suddenly into a wave of magma that crashes and chases the PCs. They need to evade the wave or die. This avatar will be spent after this attack. If Aarok crests and disappates, the necrotic cataclysm will be over. 
 
-The PCs can leave Embrey to his madness or take him back to Root (or another patron? or the Safehouse?). Root will promise to take care of him, but impsion him in the Stoneshaper Keep dungeon. Dril will listen to him to extract information and interrogate him otherwise. The PCs might...?
+If the PCs leave Aarok alone, he will finish the sword, temper it in the pool, hold it up to the mural, and then collapse into a puddle of lava that seeps into the floor, leaving the sword behind. This will end the necrotic cataclysm.
+
+Aarok will ignore the PCs unless they are a threat or somehow address him with one of his titles in ancient dwarven.
+
+The PCs can leave Embrey to his madness or take him back to Root (or another patron? or the Safehouse?). Root will promise to take care of him, but imprison him in the Stoneshaper Keep dungeon. Dril will listen to him to extract information and interrogate him otherwise. The PCs might...?
 
 Downtime at the safehouse follows this encounter.
 
