@@ -89,4 +89,4 @@ To prevent your group of secret agents from being discovered in Cryptomancer, yo
 
 ## Contribute to this campaign
 
-Check out [CONTRIBUTING.md](CONTRIBUTING.md) to share ideas and suggestions for improvement with game mnaster [Chad Sansing](mailto:csansing@gmail.com) ([@chadsansing](https://twitter.com/chadsansing)).
+Check out [CONTRIBUTING.md](CONTRIBUTING.md) to share ideas and suggestions for improvement with game master [Chad Sansing](mailto:csansing@gmail.com) ([@chadsansing](https://twitter.com/chadsansing)).
