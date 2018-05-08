@@ -108,13 +108,13 @@ PCs may also have:
 
 ## Insterstitials (between-the-scenes)
 
-- *"This reminds me of my first job," or, "I haven't been this confused since...."*
-- *"Why did everyone leave Magmatic all at once like that?", or, "Kind of makes you wonder what else Magmatic is up to. I mean...."*
-- *"The last time I saw anything like this...," or, "I never thought I'd be doing anything like this, but then again...."*
-- *"What would you do with that cloak we got from Petra?", or, "If I could make any kind of cryptogear,...."*
-- *"One time, I saw this safehouse...," or, "One time, I saw this cloak...."*
+- *"This reminds me of my first job," or, "I haven't been this confused since."*
+- *"Why did everyone leave Magmatic all at once like that?", or, "Kind of makes you wonder what else Magmatic is up to. I mean."*
+- *"The last time I saw anything like this," or, "I never thought I'd be doing anything like this, but then again."*
+- *"What would you do with that cloak we got from Petra?", or, "If I could make any kind of cryptogear,."*
+- *"One time, I saw this safehouse," or, "One time, I saw this amazing move."*
 - *"Imagine if everyone from all those stories came to life," or, "Did you ever have someone tell you Aarok was going to get you when you were a kid?"*
-- *"The undead always remind me of...," or, "I wonder what kind of magic it takes to do a thing like this."*
+- *"The undead always remind me of," or, "I wonder what kind of magic it takes to do a thing like this."*
 - *"I can't wait until we see Root again," or, "I wonder if we'll ever meet Dril."*
 - *"I don't believe in legends," or, "Are we supposed to survive this?"*
 - *"This is bigger than we thought," or, "There has to be something we're not seeing."*
