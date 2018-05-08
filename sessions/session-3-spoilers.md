@@ -100,7 +100,7 @@ After completing the quest line for the second artificer, the PCs should get:
 
 PCs may also have:
 
-- Aarok's sword Unmaker (short sword, brute melee, damage +1, melee, short, unarmed melee, ignores and sunders armor - does full damage and reduces armor rating and ability to reduce/deflect damage from other weapons by 1 on each hit until the armor is destroyed, magical effect - burns white when swung)
+- Aarok's sword Aydok (short sword, brute melee, damage +1, melee, short, unarmed melee, ignores and sunders armor - does full damage and reduces armor rating and ability to reduce/deflect damage from other weapons by 1 on each hit until the armor is destroyed, magical effect - burns white when swung)
 - A shard eye and its designs
 - Soul Stealer (claymore, brute melee, cumbersome, damage +2, melee, overwhelming, strength 3, 2-handed, captures the soul of its victim and binds it to wielder's service until a new victim is claimed, macabre - everyone nearby hears the victim's keening in their minds, magical effect - darkness surrounds the weapon, dwarven make)
 - Synthetic shards and their designs
