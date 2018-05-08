@@ -1,8 +1,8 @@
-# Cineris session 2 - SPOILER ALERT
+# Cineris session 3 - SPOILER ALERT
 
 ***PCs, you should not read past this line of text.***
 
-***GMs, here are notes for session 2 of the Cineris campaign.***
+***GMs, here are notes for session 3 of the Cineris campaign.***
 
 ## Agenda
 
@@ -10,7 +10,9 @@
 
 **Time:** 2 hours
 
-1. 
+1. Moving to Visus. (30 minutes)
+2. Zombie fishmuck. (15 minutes)
+3. The second artificer. (75 minutes)
 
 ## Props
 
@@ -98,10 +100,21 @@ After completing the quest line for the second artificer, the PCs should get:
 
 PCs may also have:
 
-- Aarok's sword (short sword, brute melee, damage +1, melee, short, unarmed melee, ignores and sunders armor - does full damage and reduces armor rating and ability to reduce/deflect damage from other weapons by 1 on each hit until the armor is destroyed, magical effect - burns white when swung)
+- Aarok's sword Unmaker (short sword, brute melee, damage +1, melee, short, unarmed melee, ignores and sunders armor - does full damage and reduces armor rating and ability to reduce/deflect damage from other weapons by 1 on each hit until the armor is destroyed, magical effect - burns white when swung)
 - A shard eye and its designs
 - Soul Stealer (claymore, brute melee, cumbersome, damage +2, melee, overwhelming, strength 3, 2-handed, captures the soul of its victim and binds it to wielder's service until a new victim is claimed, macabre - everyone nearby hears the victim's keening in their minds, magical effect - darkness surrounds the weapon, dwarven make)
 - Synthetic shards and their designs
 - Designs for a shadow chamber
 
 ## Insterstitials (between-the-scenes)
+
+- *"This reminds me of my first job," or, "I haven't been this confused since...."*
+- *"Why did everyone leave Magmatic all at once like that?", or, "Kind of makes you wonder what else Magmatic is up to. I mean...."*
+- *"The last time I saw anything like this...," or, "I never thought I'd be doing anything like this, but then again...."*
+- *"What would you do with that cloak we got from Petra?", or, "If I could make any kind of cryptogear,...."*
+- *"One time, I saw this safehouse...," or, "One time, I saw this cloak...."*
+- *"Imagine if everyone from all those stories came to life," or, "Did you ever have someone tell you Aarok was going to get you when you were a kid?"*
+- *"The undead always remind me of...," or, "I wonder what kind of magic it takes to do a thing like this."*
+- *"I can't wait until we see Root again," or, "I wonder if we'll ever meet Dril."*
+- *"I don't believe in legends," or, "Are we supposed to survive this?"*
+- *"This is bigger than we thought," or, "There has to be something we're not seeing."*
