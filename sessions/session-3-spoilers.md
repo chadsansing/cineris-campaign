@@ -109,7 +109,7 @@ PCs may also have:
 ## Insterstitials (between-the-scenes)
 
 - *"This reminds me of my first job," or, "I haven't been this confused for a long time."*
-- *"Why did everyone leave Magmatic all at once like that?", or, "Kind of makes you wonder what else Magmatic is up to."*
+- *"What do these artificers know that we don't?", or, "Kind of makes you wonder what else Magmatic is up to."*
 - *"The last time I saw anything like this," or, "I never thought I'd be doing anything like this."*
 - *"What would you do with that cloak we got from Petra?", or, "If I could make any kind of cryptogear, here's what I'd do."*
 - *"One time, I saw this safehouse," or, "One time, I saw this amazing move."*
