@@ -10,11 +10,11 @@
 
 **Time:** 2 hours
 
-1. Embrey's escape
-2. The anvil below
-3. Ambush on the road to Visus
-4. Downtime
-5. The third artificer
+1. Embrey's escape. (20 minutes)
+2. The anvil below. (30 minutes)
+3. Ambush on the road to Visus. (30 minutes)
+4. Downtime. (20 minutes)
+5. The third artificer. (20 minutes)
 
 ## Props
 
