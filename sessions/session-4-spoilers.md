@@ -40,9 +40,9 @@ Embry is a surviving Sootbeard who came here to hide. The Sootbeards went west t
 
 Embry learned how to use ritual magic and a variable number of practioners to create large shadow caches the size of rooms and small homes. His plans suggest how to create even larger spaces and that crystals within a cache might still work with one another.
 
-Every living thing and intellignt artifact shut within a cache stands the chance of passing through others as horros, appartitions, attackers. What you perceive there and where you look creates your safety or undoing.
+Every living thing and intelligent artifact shut within a cache stands the chance of passing through others as horrors, apparitions, or other kinds of phantom attackers. What you perceive there and where you look creates your safety or undoing.
 
-Rolls against 8 (for insanity) may garner some other answers to PCs' questions.
+Rolls PCs make against 8 (against Embry's insanity) may garner some other answers to PCs' questions.
 
 ### Stock NPCs
 
