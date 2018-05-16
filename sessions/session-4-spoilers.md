@@ -32,17 +32,17 @@ The Aarok underneath Sootbeard Mine is an early avatar summoned by Root's ritual
 
 PCs can rush this avatar resulting in a lava wave and buried sword; they wan watch, resulting in a melting avatar and unclaimed swaord; they can try to address the avatar and ask questions using skills and talents, and then wind up with one the previous outcomes. This avatar is working in a temple to Aarok with a forge and a pool of water and a mural described in the last session's notes. Mountains --> lake --> coiled sea serpetn --> volcano --> city on its side. Touching the sea serpent trigger's Aarok's jealousy and a burning bleeding from the fingertips resulting in the loss of 1 HP. All representations of Gotnafiskr carry this curse.
 
-#### Old Embry
+#### Old Embrey
 
 Crazed Aarok-workshipping artificer and adherent of the old ways who left Root over his plans to manufacture a future victory against the Risk Eaters. Insane now, Bloody nails, self-inflicted gouges, blood-stained plans, a read crystal shard, rantings about, "Root is watching!", "Aarok is coming!", "The shadows are not empty!", and "The emptiness is full of things we pushed aside!"
 
-Embry is a surviving Sootbeard who came here to hide. The Sootbeards went west to fight the humans, and few made it home; the presence of human miners and workers and dwarves from other families from Visus drove out the rest. The recent necromantic catastrophe of zombie fishmuck has all but shuttered the mine and starved Visus.
+Embrey is a surviving Sootbeard who came here to hide. The Sootbeards went west to fight the humans, and few made it home; the presence of human miners and workers and dwarves from other families from Visus drove out the rest. The recent necromantic catastrophe of zombie fishmuck has all but shuttered the mine and starved Visus.
 
-Embry learned how to use ritual magic and a variable number of practioners to create large shadow caches the size of rooms and small homes. His plans suggest how to create even larger spaces and that crystals within a cache might still work with one another.
+Embrey learned how to use ritual magic and a variable number of practioners to create large shadow caches the size of rooms and small homes. His plans suggest how to create even larger spaces and that crystals within a cache might still work with one another.
 
 Every living thing and intelligent artifact shut within a cache stands the chance of passing through others as horrors, apparitions, or other kinds of phantom attackers. What you perceive there and where you look creates your safety or undoing.
 
-Rolls PCs make against 8 (against Embry's insanity) may garner some other answers to PCs' questions.
+Rolls PCs make against 8 (against Embrey's insanity) may garner some other answers to PCs' questions.
 
 ### Stock NPCs
 
@@ -54,13 +54,13 @@ See [session-3-spoilers.md](session-3-spoilers.md).
 
 See [session-3-spoilers.md](session-3-spoilers.md) and [#10](https://github.com/chadsansing/cineris-campaign/issues/10).
 
-A few updates on Root-lore: he wants to use the homeland invasion to force the Risk Eaters to commit to fighting on Cineris while he sends shard-warpers to Sphere to attack Soma production, cryptowheel dens, and any Cryptarchs his Masks (nee Cloaks) can find. His goal is to hurt Sphere to drive Risk Eaters completely off of Cineris - he believes they were responsible for the human conquest and that it was an attempt to stop the dwarves on Cineris from becoming Risk Eaters' rivals. He wants to hide his army and train it in the shadow realm, arm its Masks with weapons that will steal soul names and unlock more of Sphere's secrets, hide his Masks in cloaks like Petra's, give them all shard eyes to fight better together and see the battlefield as they prepare it with the massive amount of synthetic shards he hopes to manufacture. Masks will also be dissembled to keep them from being recognizeable. That the Red Mask and Silver mask have undergone this ordeal - and that they are Root's daughters - is a terrifying testament to his family's desire for power. Aarok is a political and military weapon to Root, someone he can manage-up; whereas, for dwarves like Embry (too scared) and Jem(a fanatic), Aarok ia a god, even if stories of Gotnafiskr had disappeared before they rediscovered Aarok-worship.
+A few updates on Root-lore: he wants to use the homeland invasion to force the Risk Eaters to commit to fighting on Cineris while he sends shard-warpers to Sphere to attack Soma production, cryptowheel dens, and any Cryptarchs his Masks (nee Cloaks) can find. His goal is to hurt Sphere to drive Risk Eaters completely off of Cineris - he believes they were responsible for the human conquest and that it was an attempt to stop the dwarves on Cineris from becoming Risk Eaters' rivals. He wants to hide his army and train it in the shadow realm, arm its Masks with weapons that will steal soul names and unlock more of Sphere's secrets, hide his Masks in cloaks like Petra's, give them all shard eyes to fight better together and see the battlefield as they prepare it with the massive amount of synthetic shards he hopes to manufacture. Masks will also be dissembled to keep them from being recognizeable. That the Red Mask and Silver mask have undergone this ordeal - and that they are Root's daughters - is a terrifying testament to his family's desire for power. Aarok is a political and military weapon to Root, someone he can manage-up; whereas, for dwarves like Embrey (too scared) and Jem(a fanatic), Aarok ia a god, even if stories of Gotnafiskr had disappeared before they rediscovered Aarok-worship.
 
 ### Scenes
 
 #### Embrey's escape
 
-Once the PCs figure out how to break through the false wall or decrypt it, they will encounter a rasping gray vortex of shadow cache echoing with the signal of the anvil strikes below. Embry will reach a clawed, bloody hand out as if for help and share his mad ravings on exit, clutching his plans and shard to his rent clothes. He may follow the PCs or be killed by them or flee, depending on how the encounter goes.
+Once the PCs figure out how to break through the false wall or decrypt it, they will encounter a rasping gray vortex of shadow cache echoing with the signal of the anvil strikes below. Embrey will reach a clawed, bloody hand out as if for help and share his mad ravings on exit, clutching his plans and shard to his rent clothes. He may follow the PCs or be killed by them or flee, depending on how the encounter goes.
 
 #### The anvil below
 
@@ -68,7 +68,7 @@ This is the scene with the avatar of Aarok described above and in [session-3-spo
 
 #### Ambush on the road to Visus
 
-This adventure introduces Magmatic risk at 10% after Embry's shard makes out the adventurers. It goes up 1% per instance of bad opsec near red crystal shards and 2% per Magmatic cloak killed.
+This adventure introduces Magmatic risk at 10% after Embrey's shard makes out the adventurers. It goes up 1% per instance of bad opsec near red crystal shards and 2% per Magmatic cloak killed.
 
 - Below 25%, 3 cloaks attack the PCs.
 - From 26%-50%, 5 cloaks attack.
