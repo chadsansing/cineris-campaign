@@ -34,7 +34,7 @@ PCs can rush this avatar resulting in a lava wave and buried sword; they wan wat
 
 #### Old Embrey
 
-Crazed Aarok-workshipping artificer and adherent of the old ways who left Root over his plans to manufacture a future victory against the Risk Eaters. Insane now, Bloody nails, self-inflicted gouges, blood-stained plans, a read crystal shard, rantings about, "Root is watching!", "Aarok is coming!", "The shadows are not empty!", and "The emptiness is full of things we pushed aside!"
+Crazed Aarok-workshipping artificer and adherent of the old ways who left Root over his plans to manufacture a future victory against the Risk Eaters. Insane now, Bloody nails, self-inflicted gouges, blood-stained plans, a read crystal shard, rantings about, "Root is watching!", "Aarok is coming!", "The shadows are not empty!", "He'll fix Root!", and, "The emptiness is full of things we pushed aside!"
 
 Embrey is a surviving Sootbeard who came here to hide. The Sootbeards went west to fight the humans, and few made it home; the presence of human miners and workers and dwarves from other families from Visus drove out the rest. The recent necromantic catastrophe of zombie fishmuck has all but shuttered the mine and starved Visus.
 
