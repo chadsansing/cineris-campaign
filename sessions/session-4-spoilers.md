@@ -109,7 +109,7 @@ PCs may also have:
 
 - *"What if the answers are worse than the questions?", or, "I'm starting to connect the dots."*
 - *"I wonder if its time to talk with Root again," or, "We can't fight Root, the artifcers, and the Risk Eaters, can we?"*
-- *"I wish I had my own shadow cache to live in," or, "You gotta give these artifcers credit."*
+- *"I wish I had my own shadow cache to live in," or, "You gotta give these artificers credit."*
 - *"Why haven't the Risk Eaters destroyed Magmatic yet?", or, "Now that I think about it, I bet Root serves the Risk Eater's best interest."*
 - *"I don't know if that mural was magic or technology", or, "If that was Aarok, what is he doing here and why was he made of lava?"*
 - *"Best name for a dwarf you ever heard," or, "Best name for an elf you ever heard."*
