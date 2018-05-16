@@ -115,6 +115,6 @@ PCs may also have:
 - *"Best name for a dwarf you ever heard," or, "Best name for an elf you ever heard."*
 - *"You ever name your weapons?", or, "Ever seen a dragon before?"*
 - *"I've never seen a man made of magma before", or, "The last time I saw a lava golem like that...."* 
-- *"Anything more you can tell us about Fishhook?", or, "I know exactly what Fishhook would do in a stiuation like this."*
+- *"Anything more you can tell us about Fishhook?", or, "I know exactly what Fishhook would do in a situation like this."*
 - *"I'll say this for living in the Wasteland," or, "How far would you go to get our homelands back?"*
 - *"Tell me more about your family," or, "What did you family do before the conquest?"*
