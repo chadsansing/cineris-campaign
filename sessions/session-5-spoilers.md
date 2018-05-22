@@ -63,7 +63,7 @@ If the PCs decode dinner, Naardor will deal with them plainly and Magmatic risk 
 
 #### The Black Mask
 
-The Black Mask is a Disssembled bodyguard to Naardor "Old Naardo" Gearsmith. Root has created a Black Mask for each of the  executives within his circle of Aarok worship. They also spy for Root and have been trained to kill the peopl they're protecting if any of them should turn on Root.
+The Black Mask is a Dissembled bodyguard to Naardor "Old Naardo" Gearsmith. Root has created a Black Mask for each of the  executives within his circle of Aarok worship. They also spy for Root and have been trained to kill the peopl they're protecting if any of them should turn on Root.
 
 This Black Mask has been turned by Naardor, with whom they are in love, grateful for Naardor's acceptance and affection. This Black Mask has had their origial 3 black circle tattoo covered by 2 black circle tattoo.
 
