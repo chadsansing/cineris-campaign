@@ -150,6 +150,8 @@ They will wind up poisoned and asleep, as will the other moguls. Once the moguls
 
 ***Menu***
 
+Be sure to introduce some pairs in the order they're listed and to introduce others beginnng with the second item instead.
+
 **First course**
 
 *Food*
@@ -178,7 +180,7 @@ They will wind up poisoned and asleep, as will the other moguls. Once the moguls
 
 *Food*
 
-- Crown Cake; there's a surprise or treasure hidden inside; whoever gets it is said to be blessed with good fortune for a year
+- Crown Cake; there's a jewel hidden inside; whoever gets it is said to be blessed with long life and good fortune for a year
 - Puddle Treat; alcohol-soaked fruit cake; like a hairy buffalo in a sponge cake; something to get you drunk
 
 *Drink*
@@ -189,8 +191,8 @@ They will wind up poisoned and asleep, as will the other moguls. Once the moguls
 ***Encoded pairings***
 
 - First course: Gorma at Palada + Rothush - I want to betray Root so this bitterness I feel may become sweet.
-- Second course: Utbar's forge steaks + Vimndrought - I see clearly now and am ready and eager to change course
-- Third course: Crown Cake + Clefthall 74 - I am ready to make a deal with you that I hope recovers lost treasure and helps us survive the year
+- Second course: Utbar's forge steaks + Vimndrought - I see clearly now and am ready and eager to change course.
+- Third course: Crown Cake + Clefthall 74 - I am ready to make a deal with you that I hope recovers lost treasure and helps us survive the year.
 
 
 #### After-dinner conversation
