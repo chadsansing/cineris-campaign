@@ -170,7 +170,7 @@ Be sure to introduce some pairs in the order they're listed and to introduce oth
 
 *Food*
 
-- Gorma at Palada; wafer-thin deer-jerky with rose saly and pink peppercorn; represents betrayal; something you feed enemies during parlay to betray your friends)
+- Gorma at Palada; wafer-thin deer-jerky with rose saly and pink peppercorn; represents betrayal; something you feed enemies during parlay to betray your friends; Gorma invited enemies to discuss surrender, but instead planned the slaughter of his own army because his king had married his daughter to someone else, even though Gorma loved her
 - Wiven's Larder; mushrooms with Echo Eater spume; represents trendiness; Portia chef's creation; a new way
 
 *Drink*
@@ -182,7 +182,7 @@ Be sure to introduce some pairs in the order they're listed and to introduce oth
 
 *Food*
 
-- Utbur's Forge Steaks; charred on the outside, bloody on the inside; represents something improvised from one use to another
+- Utbur's Forge Steaks; charred on the outside, bloody on the inside; represents something improvised from one use to another; when Utbar and his last vassals were besieged in his royal workshop during a coup, supplies dwindling, he used his forge as an oven to feed them and tenderized their last meat rations on his anvil
 - Drowned Fingers; poached finger-like crustacean appendages served on the shell in a fish broth; represents drowning and death by temptation and overreach; hands tempting sailors below
 
 *Drink*
