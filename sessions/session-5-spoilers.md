@@ -124,11 +124,25 @@ The human Captain introduced the group to the dwarven trade council as promised 
 
 The group has been invited to a feast in their honor given by the council and hosted at Naardor's estate. They may be carrying Petra's cloak and plans, as well as Old Embrey's plans, on them. They have not had the chance to alert Dril of their predicament.
 
+More Aarok lore:
+
+Aarok can take the form of a dwarven avatar, but is also the buried city Aarok hidden under the Black Lake caldera, made of insanely tempered volcanic glass preserved in lava, able to rise only if the mechanisms deep under the ancient homelands capital of Denokta can be activated. These are ancient locks guarded by dwarven automata deep under the city, which is occupied by the humans. It is partly above ground and expanding their into the food-producing plains, but also partly underground where the dwarves used to mine crystal. Maybe the homelands were a crater. 
+
+The city was once the capital, but as dwarves grew and learned and explored and expanded, it became a more stolid and stagnant place, weakening Aarok and all memory of him and Gotnafiskr. However, a dwarven king dedicted to the old ways, Ruundum the First, ruling from Denokta, started a project with Aarok and Gotnafiskr to bury the city and temper and shield it with water and volcanic glass made from the Black Lake as Aarok fell into the magma under Black Mountain.
+
+Ruundum wanted to preserve the city should the dwarves need it again, but it was forgotten before the conquest, so dwarves went to the Elvish Forest or wasteland instead of to the city.
+
+Ruundum also worked with Aarok and Gotnafiskr before they slept to create the Chamber of Need beneath his great hall.
+
+Under the underground city is a more ancient royal city last occupied by Ruundum and a few of his descendants; under its halls there is the Chamber of Need, a space for re-spec-ing characters to become the heroes they think they need to be - different facets of themselves are represented in giant crystals there and can swap selves, imprisoning the old in the Shadow realm. Under that chamber is the Great Gear and its locks, a mechanism for raising the lost city of Aarok when the dwarves are in their last hour of need for a mountain citadel near their true birth place, Mount Cineris, where Aarok, the forge of inspiration is a city and home and forge of dwarven dreams surrounded by the tempering, changing, exploring waters and sea serpent form of Gotnafiskr. Aarok is an idea, a place, and a series of Avatars ceated by invention and need whose works are finished into useful tools by Gotnafiskr. If Aarok begins the campaign to retake the homelands, Gotnafiskr finishes it. For later: rising city scene and churning water scene with Gotnafiskr's warrior aspect emerging from it.
+
+These are all some of the many and different ways to conceptualize their relationship and places in the dwarven pantheon.
+
 ### Scenes
 
 #### Dinner at Old Naardo's
 
-Dinner should be improvised as a kind of diplomatic scene or interrogation. Naardor wants to know if he can trust the PCs to help him escape Magmatic and has coded a message of sorts into the menu. Naardor will insist that evryone - including himself - leave their shards in jeweled boxes set on a marble buffet inside the dining room as matter of etiquette and decorum during dinner conversation. Daggers seem fine; larger weapons go against the wall.
+Dinner should be improvised as a kind of diplomatic scene or genteel interrogation. Naardor wants to know if he can trust the PCs to help him escape Magmatic and has coded a message of sorts into the menu. Naardor will insist that everyone - including himself - leave their shards in jeweled boxes set on a marble buffet inside the dining room as matter of etiquette and decorum during dinner conversation. Daggers seem fine; larger weapons go against the wall.
 
 Naardor will also excuse himself to tell his kitchen what to prepare and serve before returning in more elegant attire with a punch dagger at his belt.
 
@@ -169,7 +183,7 @@ Be sure to introduce some pairs in the order they're listed and to introduce oth
 *Food*
 
 - Utbur's Forge Steaks; charred on the outside, bloody on the inside; represents something improvised from one use to another
-- Drowned Fingers; poached finger-like crustacean appendages served on the shell in a fish broth; represents downing and death by tempation and overreach; hands tempting sailors below
+- Drowned Fingers; poached finger-like crustacean appendages served on the shell in a fish broth; represents drowning and death by temptation and overreach; hands tempting sailors below
 
 *Drink*
 
@@ -180,34 +194,33 @@ Be sure to introduce some pairs in the order they're listed and to introduce oth
 
 *Food*
 
-- Crown Cake; there's a jewel hidden inside; whoever gets it is said to be blessed with long life and good fortune for a year
+- Prospector's Cake; there's a jewel hidden inside; whoever gets it is said to be blessed with long life and good fortune for a year
 - Puddle Treat; alcohol-soaked fruit cake; like a hairy buffalo in a sponge cake; something to get you drunk
 
 *Drink*
 
-- Clefthall 74; Clefthall is usually toasted to new business deals; this is a costly vintage
+- Clefthall 74; Clefthall is usually toasted to new business deals; this is a costly homelands vintage, nearly priceless
 - Stoneblush; an overly sweet and strong brandy imported from Sphere
 
 ***Encoded pairings***
 
 - First course: Gorma at Palada + Rothush - I want to betray Root so this bitterness I feel may become sweet.
-- Second course: Utbar's forge steaks + Vimndrought - I see clearly now and am ready and eager to change course.
-- Third course: Crown Cake + Clefthall 74 - I am ready to make a deal with you that I hope recovers lost treasure and helps us survive the year.
-
+- Second course: Utbar's forge steaks + Vimdrought - I see clearly now and am ready and eager to change course.
+- Third course: Prospector's Cake + Clefthall 74 - I am ready to make a deal with you despite the cost that I hope recovers lost treasure and helps make it through upcoming troubles.
 
 #### After-dinner conversation
 
 ***If the players decrypt the menu...***
 
-Naardor will share his secrets in return for help escaping Root.
+Naardor will share his secrets in return for help escaping Root. He will also gift things to the players to help them defeat Root.
 
 ***If the players were poisoned...***
 
-Naardor will interrogate the PCs and then coerce them into tracking down Hamner.
+Naardor will imprison and interrogate the PCs and then coerce them into tracking down Hamner.
 
 ***If Naardor finds out that the PCs killed Petra...***
 
-It will tigger the same consequences described above.
+It will trigger the same consequences described above.
 
 #### Downtime & research
 
@@ -224,7 +237,17 @@ The other artificers' scenarios are described in [session-2-spoilers.md](session
 - 1 TP + 1 TP/player/hack
 - 1 SA
 - Loot from enemies if there is a fight
-- Articers' tech & plans
+- Artificers' tech & plans
+
+- Naardor's gifts
+  - 2 black circle tattoos for anyone who wants them
+  - Shard arrows - a crystal shard with 11 arrowheads in its network that can be used to tag and track objects or prey
+  - Gotnafiskr's Tooth - dagger +1 damage; must draw blood whenever drawn or it will stick in its sheath forever; wielder's hand seeps blood painlessly when holding it
+  - Gilded echo eater in a crystal jar; break jar in case of emergency network
+  - A bottle of Vimdrought
+  - Walking workshop
+  - Cryptomancer's kit
+  
 
 ## Insterstitials (between-the-scenes)
 
