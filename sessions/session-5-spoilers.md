@@ -19,7 +19,7 @@
 
 ### Important NPCs
 
-#### Naardo Gearsmith
+#### Naardor "Old Naardo" Gearsmith
 
 - HP 10
 - MP 10
