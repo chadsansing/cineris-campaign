@@ -128,7 +128,9 @@ The group has been invited to a feast in their honor given by the council and ho
 
 #### Dinner at Old Naardo's
 
-Dinner should be improvised as a kind of diplomatic scene or interrogation. Naardor wants to know if he can trust the PCs to help him escape Magmatic and has coded a message of sorts into the menu. Naardor will insist that evryone - including himself - leave their shards in jeweled boxes set on a marble buffet inside the dining room as matter of etiquette and decorum during dinner conversation.
+Dinner should be improvised as a kind of diplomatic scene or interrogation. Naardor wants to know if he can trust the PCs to help him escape Magmatic and has coded a message of sorts into the menu. Naardor will insist that evryone - including himself - leave their shards in jeweled boxes set on a marble buffet inside the dining room as matter of etiquette and decorum during dinner conversation. Daggers seem fine; larger weapons go against the wall.
+
+Naardor will also excuse himself to tell his kitchen what to prepare and serve before returning in more elegant attire with a punch dagger at his belt.
 
 ***If Naardor finds out that the PCs killed Petra...***
 
@@ -145,6 +147,51 @@ If the PCs eat and drink a combination of encrypted and poisoned items, they'll 
 ***If the players take all of Naardor's recommendations...***
 
 They will wind up poisoned and asleep, as will the other moguls. Once the moguls' bodyguards take them home, Naardor will have the Black Mask and his household guard put the PCs in his dungeon. Naardor will interrogate them the next day having found Old Embrey's plans in their gear. Naardor will offer them their freedom if they find and return Hamner and/or his tech within 72 hours. After that, Naardor will betray the group to Root, jumping their Magmatic risk by 5%.
+
+***Menu***
+
+**First course**
+
+*Food*
+
+- Gorma at Palada; wafer-thin deer-jerky with rose saly and pink peppercorn; represents betrayal; something you feed enemies during parlay to betray your friends)
+- Wiven's Larder; mushrooms with Echo Eater spume; represents trendiness; Portia chef's creation; a new way
+
+*Drink*
+
+- Rothush; a bittersweet shot that goes from sandalwood to peach; represents complicated feelings of change; toasted at portentious moments
+- Whetsum; a cheap, dry lager; something people drink to get drunk and forget
+
+**Second Course**
+
+*Food*
+
+- Utbur's Forge Steaks; charred on the outside, bloody on the inside; represents something improvised from one use to another
+- Drowned Fingers; poached finger-like crustacean appendages served on the shell in a fish broth; represents downing and death by tempation and overreach; hands tempting sailors below
+
+*Drink*
+
+- Vimdrought; soma liquor stored in crystal decanters; gives feelings of clarity, understanding, euphoria
+- Kaala 31; a fine red wine; ostentatious & showy
+
+**Third course**
+
+*Food*
+
+- Crown Cake; there's a surprise or treasure hidden inside; whoever gets it is said to be blessed with good fortune for a year
+- Puddle Treat; alcohol-soaked fruit cake; like a hairy buffalo in a sponge cake; something to get you drunk
+
+*Drink*
+
+- Clefthall 74; Clefthall is usually toasted to new business deals; this is a costly vintage
+- Stoneblush; an overly sweet and strong brandy imported from Sphere
+
+***Encoded pairings***
+
+- First course: Gorma at Palada + Rothush - I want to betray Root so this bitterness I feel may become sweet.
+- Second course: Utbar's forge steaks + Vimndrought - I see clearly now and am ready and eager to change course
+- Third course: Crown Cake + Clefthall 74 - I am ready to make a deal with you that I hope recovers lost treasure and helps us survive the year
+
 
 #### After-dinner conversation
 
