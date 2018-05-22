@@ -126,7 +126,7 @@ The group has been invited to a feast in their honor given by the council and ho
 
 More Aarok lore:
 
-Aarok can take the form of a dwarven avatar, but is also the buried city Aarok hidden under the Black Lake caldera, made of insanely tempered volcanic glass preserved in lava, able to rise only if the mechanisms deep under the ancient homelands capital of Denokta can be activated. These are ancient locks guarded by dwarven automata deep under the city, which is occupied by the humans. It is partly above ground and expanding their into the food-producing plains, but also partly underground where the dwarves used to mine crystal. Maybe the homelands were a crater. 
+Aarok can take the form of a dwarven avatar, but is also the buried city Aarok hidden under the Black Lake caldera, made of insanely tempered volcanic glass preserved in lava, able to rise only if the mechanisms deep under the ancient homelands capital of Denokta can be activated. These are ancient locks guarded by 4 singing Iron Seneschals deep under the city, which is occupied by the humans. It is partly above ground and expanding their into the food-producing plains, but also partly underground where the dwarves used to mine crystal. Maybe the homelands were a crater. 
 
 The city was once the capital, but as dwarves grew and learned and explored and expanded, it became a more stolid and stagnant place, weakening Aarok and all memory of him and Gotnafiskr. However, a dwarven king dedicted to the old ways, Ruundum the First, ruling from Denokta, started a project with Aarok and Gotnafiskr to bury the city and temper and shield it with water and volcanic glass made from the Black Lake as Aarok fell into the magma under Black Mountain.
 
