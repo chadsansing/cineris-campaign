@@ -206,7 +206,7 @@ Be sure to introduce some pairs in the order they're listed and to introduce oth
 
 - First course: Gorma at Palada + Rothush - I want to betray Root so this bitterness I feel may become sweet.
 - Second course: Utbar's forge steaks + Vimdrought - I see clearly now and am ready and eager to change course.
-- Third course: Prospector's Cake + Clefthall 74 - I am ready to make a deal with you, despite the cost, that I hope recovers lost treasure and helps make it through upcoming troubles.
+- Third course: Prospector's Cake + Clefthall 74 - I am ready to make a deal with you, despite the cost, that I hope recovers lost treasure and helps us make it through upcoming troubles.
 
 #### After-dinner conversation
 
