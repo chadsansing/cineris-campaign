@@ -182,7 +182,7 @@ Be sure to introduce some pairs in the order they're listed and to introduce oth
 
 *Food*
 
-- Utbur's Forge Steaks; charred on the outside, bloody on the inside; represents something improvised from one use to another; when Utbar and his last vassals were besieged in his royal workshop during a coup, supplies dwindling, he used his forge as an oven to feed them and tenderized their last meat rations on his anvil
+- Utbur's Forge Steaks; charred on the outside, bloody on the inside; represents something improvised from one use to another; when Utbar and his last vassals were besieged in his royal workshop during a coup, supplies dwindling, he used his forge as an oven to feed them and tenderized their last meat rations on his anvil; the feasted before their deaths
 - Drowned Fingers; poached finger-like crustacean appendages served on the shell in a fish broth; represents drowning and death by temptation and overreach; hands tempting sailors below
 
 *Drink*
