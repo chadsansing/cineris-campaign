@@ -138,6 +138,8 @@ Under the underground city is a more ancient royal city last occupied by Ruundum
 
 These are all some of the many and different ways to conceptualize their relationship and places in the dwarven pantheon.
 
+There are even more esoteric sects that have only a Gotnafiskr tattoo/worship only Gotnafiskr, claiming that Aarok is an aspect of Gotnafiskr and that Gotnafiskr represents the entire lifecycle of creation and destruction and made Aarok of herself to teach the dwarves the concepts of beginnings and endings.
+
 ### Scenes
 
 #### Dinner at Old Naardo's
