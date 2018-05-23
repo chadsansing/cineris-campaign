@@ -170,7 +170,7 @@ Be sure to introduce some pairs in the order they're listed and to introduce oth
 
 *Food*
 
-- Gorma at Palada; wafer-thin deer-jerky with rose saly and pink peppercorn; represents betrayal; something you feed enemies during parlay to betray your friends; Gorma invited enemies to discuss surrender, but instead planned the slaughter of his own army because his king had married his daughter to someone else, even though Gorma loved her
+- Gorma at Palada; wafer-thin deer-jerky with rose salt and pink peppercorn; represents betrayal; something you feed enemies during parlay to betray your friends; Gorma invited enemies to discuss surrender, but instead planned the slaughter of his own army because his king had married his daughter to someone else, even though Gorma loved her
 - Wiven's Larder; mushrooms with Echo Eater spume; represents trendiness; Portia chef's creation; a new way
 
 *Drink*
