@@ -2,7 +2,7 @@
 
 Game master: [Chad Sansing](mailto:csansing@gmail.com), [@chadsansing](https://twitter.com/chadsansing)
 
-[Roll20 link](https://app.roll20.net/join/3196521/G7lx7Q)
+[Roll20](https://app.roll20.net/join/3196521/G7lx7Q)
 
 ## Welcome to Cineris!
 
