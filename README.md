@@ -84,6 +84,7 @@ To prevent your group of secret agents from being discovered in Cryptomancer, yo
 ## Player resource credits
 
 - The [fillable character sheet](player-resources/fillable-character-sheet.pdf) in this repo was made by [@Masterwolf2050](https://github.com/Masterwolf2050/cryptomancer-challenge-Characters/blob/master/character_sheet-Fillable.pdf) as part of the 2017 Global Sprint's [Cryptomancer Chalenge](https://github.com/MozillaFoundation/mpa-cryptomancer-challenge/).
+- The [cryptomancer-quick-reference.pdf](/player-resources/cyptomancer-quick-reference.pdf) was shared by [Ozasuke](https://www.reddit.com/r/Cryptomancer/comments/5trx4g/pdf_gm_reference_sheet/).
 - Other [game resources](http://cryptorpg.com/downloads/) made and shared by @cryptomancer-actual.
 - Other campaign resources by @chadsansing.
 
