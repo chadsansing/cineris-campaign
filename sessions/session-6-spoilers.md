@@ -48,7 +48,7 @@ Binding Aarok in this way will keep Root from summoning and binding him in anoth
 
 Gotnafiskr must arrange and inflict calamaties on the dwarves to keep them in a cycle of beginnings or endings, or they must end them, and they can see a day when no more dwarves live on Cineris because of them. Thy birthed the dwaves in response to Aarok's idea of children who needed his teaching and could create with him and perhaps one day surpass him.
 
-Gotnafiskr can equip the party with camoflauge cloaks.
+Gotnafiskr can equip the party with camoflauge cloaks having had enough time to reverse-engineer Petra's work and build a few more prototypes.
 
 At some point, Gotnafisker will probably also just wipe away the human side of Visus with a wave or something.
 
@@ -61,7 +61,7 @@ Gotnafiskr's goals:
 
 #### Aarok, the molten dread
 
-Darven god of innovation, creativity, and creation, especially at the forge, shaped in each era by the needs of the dwarves that worship him or the will Gotnafiskr imposes on him. Already summoned as a magma Golem in the Sootbeard Mine temple. Perhaps summoned elsewhere. Aarok's bones are interred in a crypt on Mount Cineris that Jem is seaching for to prove herself Aarok's true servant over Root, who has taken shortcuts and taken dwarves' identities from them in his efforts to win back and, ultimately, rule, the homelands. Gotnafiskr wants to bind Aarok into a city.
+Dwarven god of innovation, creativity, and creation, especially at the forge, shaped in each era by the needs of the dwarves that worship him or the will Gotnafiskr imposes on him. Already summoned as a magma Golem in the Sootbeard Mine temple. Perhaps summoned elsewhere. Aarok's bones are interred in a crypt on Mount Cineris that Jem is seaching for to prove herself Aarok's true servant over Root, who has taken shortcuts and taken dwarves' identities from them in his efforts to win back and, ultimately, rule, the homelands. Gotnafiskr wants to bind Aarok into a city.
 
 Aarok's goals:
 
