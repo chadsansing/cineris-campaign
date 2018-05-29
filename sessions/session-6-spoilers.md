@@ -84,8 +84,8 @@ Before sharing these visions, introduce a facilitation tool like "Pause," "Stop"
 
 - *Faelin:* You are awake and part of a elven ritual. They are butchering a live, awake elf, cutting out pieces of its brain, marrow, and heart, and, to your pain and horror, grafting them into your bound, broken, and spread body. Finish the dream.
 - *Wally:* You are in the temple of Aarok and Gotnafiskr, surrounded by skeletons, as Black Masks warp into the space all around you. Every rotting undead face, and every Dissembled face under every mask, is a unique and corrupted version of Petra. Finish the dream.
-- *Kilvar:* You are awake, but paralyzed by Soma consumption; locked in; Elves wearing the bloody heads of freshly slaughtered Gnolls surround you, touch you, and cut runes into your skin until another elf, wearing the deapitated head of a dwarf, begins an incantation that fills you with dread as you scream and lose your mind to terror. Finish the dream.
-- *Ob:* You are in a small row boat at sea without paddles during a storm, and the zombie fishmuck version of crawls aboard from within the waves. The toss and turn of the waves doesn't affect him, and you feel like you are going to lose. Finish the dream.
+- *Kilvar:* You are awake, but paralyzed by Soma consumption; locked in; Elves wearing the bloody heads of freshly slaughtered Gnolls surround you, touch you, and cut runes into your skin until another elf, wearing the decapitated head of a dwarf, begins an incantation that fills you with dread as you scream and lose your mind to terror. Finish the dream.
+- *Ob:* You are in a small row boat at sea without paddles during a storm, and the zombie fishmuck version of Fishhook crawls aboard from within the waves. The toss and turn of the waves doesn't affect him, and you feel like you are going to lose. Finish the dream.
 - *Psalt:* Your eyes are closed. You know you are in the shadow realm. You know that keeping your eyes closed is the only way to stay hidden. You can hear voices all around you - legions of them - those you hurt, killed, betrayed, disappointed, left behind - and one, so important to you, calling for help - but you know that to listen further and look for one will let all of them find you and descend upon you. Finish the dream.
 
 ##### Ruundum's Hall
@@ -96,7 +96,7 @@ The Sensechals are all singing together in ancient dwarven with the hiss and cla
 
 Ruundum and his fellow Seneschals will not open their locks and release the lava to raise the city of Aarok unless they are convinced of the need.
 
-This is also the setting for an optional scene. If Root and his operatives have made it here, the PCs will find them approaching the Seneschals. A fight will begin. The Red and Silver masks will attack the PCs while Root attempts to summon another magma Golem to fight for him (or perhaps engulf and join with him). Gotnafiskr in their current form will breach the lava and bit Root in two, snapping him in half and spitting his corpse at the masks. Then Gotnafiskr will tell the PCs to meet them at the city of Arrok before diving below the leava (and then fswimming through it as it drains from below Denokta to raise the city under Black Lake). The masks will take off their masks, revealing their Dissembled features, and then grieve and console one another over Root. It will becom clear they are close somehow, if not that they are Root's daughters. They will fight the PCs, masks off, to the death.
+This is also the setting for an optional scene. If Root and his operatives have made it here, the PCs will find them approaching the Seneschals. A fight will begin. The Red and Silver masks will attack the PCs while Root attempts to summon another magma Golem to fight for him (or perhaps engulf and join with him). Gotnafiskr in their current form will breach the lava and bite Root in two, snapping him in half and spitting his corpse at the masks. Then Gotnafiskr will tell the PCs to meet them at the city of Arrok before diving below the leava (and then fswimming through it as it drains from below Denokta to raise the city under Black Lake). The masks will take off their masks, revealing their Dissembled features, and then grieve and console one another over Root. It will becom clear they are close somehow, if not that they are Root's daughters. They will fight the PCs, masks off, to the death.
 
 **The Seneschals and their questions**
 
@@ -112,7 +112,7 @@ Ruundum, king of dwarves: How do I know that this city is for you?
 
 ##### The city of Aarok
 
-A massive, brutal, symmetrical, stone and gold city of dwarven dwellings and workshops built on a hill capped by Aarok the Seneschal on a stone throne. Lines of magma and water connect everything, heating forges and tempering creations. This is how Gotnafiskr binds Aarok to Cineris to help her end the human invasion and this is how Gotnafiskr begins the last cycle of beginnings and endings after the restoration that will one day lead to the dwaves leaving Cineris.
+A massive, brutal, symmetrical, stone and gold city of dwarven dwellings and workshops built on a hill capped by Aarok, the Seneschal, on a stone throne. Lines of magma and water connect everything, heating forges and tempering creations. This is how Gotnafiskr binds Aarok to Cineris to help her end the human invasion and this is how Gotnafiskr begins the last cycle of beginnings and endings after the restoration that will one day lead to the dwaves leaving Cineris.
 
 #### Root Stoneshaper and his masks
 
@@ -287,7 +287,7 @@ If the PCs do not go after an artificer, Fishhook will get Hamner, Jem will retu
 
 If the PCs haven't been active in the repo, now is the time for research and spending Talent Points and Strategic Assets from Naardor/Visus. They can also have their Magmatic cel do something. The PCs can rool for questions and answers or to invent lore.
 
-#### Setting piorities
+#### Setting priorities
 
 This is time set aside for contacting and confronting Dril about Gotnafiskr and what's really going on; the PCs can roll for questions and answers or to invent lore.
 
@@ -324,8 +324,8 @@ If this part of the campaign ends, give PCs an attrbiute rank, as well.
 
 - *"I bet all of those other stories my parents told me were true," or "What are the chances we have to kill Aarok again?"*
 - *"There's really very little difference between a dragon and sea serpent," or, "How many forms do these gods take?"*
-- *"Here's the most amazing thing I read in our library," or, "Here's the best lead I found on the Shard Scape for ou next adventure."*
-- *"Do you ever think a god like that and a swarf like me," or, "How does that even work when one is a sea serpent and the other one's a city?"*
+- *"Here's the most amazing thing I read in our library," or, "Here's the best lead I found on the Shard Scape for our next adventure."*
+- *"Do you ever think a god like that and a dwarf like me," or, "How does that even work when one is a sea serpent and the other one's a city?"*
 - *"I'm thinking of changing jobs," or, "When we get the homelands back, I wonder what I'll be."*
 - *"Faelin, what do you think of all this?", or, "Faelin, I'm letting you know right now."*
 - *"What do we do with Magmatic after this?", or, "We could probably open our own business after this."*
