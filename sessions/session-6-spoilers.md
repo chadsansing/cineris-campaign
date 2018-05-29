@@ -40,13 +40,13 @@ Whereas Aarok is notional and multifaceted and appears differently as needed, Go
 
 Gotnafiskr will stay in their sea serpent form until the city they helped Ruundum build - Aarok - rises from Black Lake.
 
-The city can rise when the Iron Seneschals in Ruundum's Hall release their locks. These locks will let the magam under Denokta surge into the cone of the Black Lake volcano, raising the city as the lake's water falls downward and coats is structures in a volcanic glass. The city will be a marvel of brutalism with workshops and foundaries and cooling systems that run hot and cold throughut, connecting every building to the others and to a throne atop the highest hill in the symmetrical city on which sits the Iron Seneschal of Aarok himself, now bound to this place to inspire a new age of dwarven craftpersonship.
+The city can rise when the Iron Seneschals in Ruundum's Hall release their locks. These locks will let the magma under Denokta surge into the cone of the Black Lake volcano, raising the city as the lake's water falls downward and coats is structures in a volcanic glass. The city will be a marvel of brutalism with workshops and foundaries and cooling systems that run hot and cold throughut, connecting every building to the others and to a throne atop the highest hill in the symmetrical city on which sits the Iron Seneschal of Aarok himself, now bound to this place to inspire a new age of dwarven craftpersonship.
 
 Gotnafiskr will then become a martial avatar to lead the dwarves against the humans and end the conflict Root and Arok began. They will rise from the lake around the city of Aarok in a gout of water revealing a crytalline-armored merfolk kind of person with gills running up both sides of their face instead of a mouth. Their voice will be like the crashing of waves and the rasp of the rusf together. They will be armed with wateed steel and cyrstal blades. They will stand at 3 meters and impose their will on all dwarves around them.
 
 Binding Aarok in this way will keep Root from summoning and binding him in another.
 
-Gotnafiskr must arrange and inflict calamaties on the dwarves to keep them in a cycle of beginnings or endings, or they must end them, and they can see a day when no more dwarves live on Cineris because of them. Thy birthed the dwaves in response to Aarok's idea of children who needed his teaching and could create with him and perhaps one day surpass him.
+Gotnafiskr must arrange and inflict calamaties on the dwarves to keep them in a cycle of beginnings or endings, or they must end them, and they can see a day when no more dwarves live on Cineris because of them. They birthed the dwaves in response to Aarok's idea of children who needed his teaching and could create with him and perhaps one day surpass him.
 
 Gotnafiskr can equip the party with camoflauge cloaks having had enough time to reverse-engineer Petra's work and build a few more prototypes.
 
@@ -54,7 +54,7 @@ At some point, Gotnafisker will probably also just wipe away the human side of V
 
 Gotnafiskr's goals:
 
-1. Raise the city of Aarok before Root can vind Aarok to something else and thereby reunite with Aarok.
+1. Raise the city of Aarok before Root can bind Aarok to something else and thereby reunite with Aarok.
 2. Obliterate Root for trying to control Aarok.
 3. Retake the homelands.
 4. Restore the Black Masks to their dwarven selves.
@@ -130,7 +130,7 @@ Denokta is the human capital city on Cineris. It is a mix of above- and below-gr
 
 Far below level 5, accessible only by the underground river on level 3 (which was created when Ruundum flooded the paths to his hall and became a Seneschal), is the Chamber of Need, Ruundum's Hall, and locks to the city of Aarok.
 
-The PCs may also try to infiltrate Stoneshaper Keep at some point to confront Root. See the map in the GM's notebook for a layout. [I'll add a copy here later.] They should find some labs that suggest what the other artificers were doing, as well as a stockpile of crystals with strange labels indicating they came from Sphere (e.g. Sylvettica; Brower's cryptoden; guard). Root is collecting these so his Black Masks's can Shard Warp to Sphere, organize, and make a decapitation attack against the Risk Eaters and Cryptarchs. This is his long-term plan now, though once he hoped to attack the homelands with conventional forces, drawing out the Risk Eaters to Cineris, so he could surprise those remaining on Sphere with his Black Masks.
+The PCs may also try to infiltrate Stoneshaper Keep at some point to confront Root. See the map in the GM's notebook for a layout. [I'll add a copy here later.] They should find some labs that suggest what the other artificers were doing, as well as a stockpile of crystals with strange labels indicating they came from Sphere (e.g. Sylvettica; Brower's cryptoden; guard). Root is collecting these so his Black Masks can Shard Warp to Sphere, organize, and make a decapitation attack against the Risk Eaters and Cryptarchs. This is his long-term plan now, though once he hoped to attack the homelands with conventional forces, drawing out the Risk Eaters to Cineris, so he could surprise those remaining on Sphere with his Black Masks.
 
 Moving through either place, outiftted with gear from Gotnafiskr, should be a battle of stealth and wits.
 
