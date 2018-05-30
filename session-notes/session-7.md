@@ -16,7 +16,7 @@
 - Kilvar and Ob deepen their bond through a post-battle grooming ritual.
 - After healing, Wally casts Psychometry on the Risk Eater's sword, but is unable to learn anything important.
 - Kilvar works on more traps to secure the safe house. Psalt and Ob clean up the Risk Eater. Faelin helps Wally get comfortable in the library and assists Wally with his research on Gotnafiskr.
-- Wally works through a series of near-ancient texts going back as far as a millenium before the shard catastrophe to the time of King Ruundum who apprently workshipped and worked with both Aarok and Gotnafiskr. Wally has not tried to read any of the more difficult and incomplete ancient texts yet.
+- Wally works through a series of near-ancient texts going back as far as a millenium before the shard catastrophe to the time of King Ruundum who apprently worshipped and worked with both Aarok and Gotnafiskr. Wally has not tried to read any of the more difficult and incomplete ancient texts yet.
 - After learning more about Gotnafiskr, the group confronts Dril via their shards and confirms that Dril is Gotnafiskr.
 - Faelin leads the interview.
 - Gotnafiskr resents Root for trying to bind Aarok to Root's needs over the needs of all dwarves. Gotnafiskr wants to destroy Root and finish Aarok's work to drive out the humans. It's like Gotnafiskr has to do this because Root has summoned Aarok to do this, but Gotnafiskr either wants Aarok to be free or bound to Gotnafiskr's or the dwarves' needs, not Root's.
