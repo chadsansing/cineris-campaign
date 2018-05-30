@@ -275,7 +275,7 @@ Root understands that the PCs and maybe Naardor have betrayed him and has sped u
 
 Root now wants to summon the Black Masks he has - which number in the low hundreds - and send them into Denokta with camouflage cloaks to assisinate the human government and elites. He needs to capture Hamner and speed up synthetic crystal production to do this. He has hired Fishhook to capture Hamner.
 
-Dril will have intelligence that Root is speeding up, Magamtic agents have been seen in Stranger communities outside the Soma Ring, Portia, and Visus, and that he seems to be prepping a upply train that could support dozens, if not hundred, of operatives.
+Dril will have intelligence that Root is speeding up, Magmatic agents have been seen in Stranger communities outside the Soma Ring, Portia, and Visus, and that he seems to be prepping a upply train that could support dozens, if not hundred, of operatives.
 
 It's possible that the PCs also let Root succeed or partially succeed. Dril mostly wants Aarok freed of Root's influence and to crush the humans themselves after that to finish this era.
 
