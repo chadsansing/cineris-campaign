@@ -39,7 +39,7 @@
 - Faelin correctly intuits that aspects and genders are either fluid or not applicable to Gotnafiskr and, perhaps, Aarok. They may be two aspects of the same being or force or an archetypical pairing.
 - Dragons haven't been sighted on Cineris since the time of King Runndum.
 - Aarok and Gotnafiskr have appeared in many forms with many names or epithets over the ages; however, the name Dril doesn't show up in near-ancient lore.
-- Gotnafiskr is bound to Aarok's Jealousy - whenever Gotnafiskr or a representation of Gotnafiskr is touched, that person's fingers bleed.
+- Gotnafiskr is bound to Aarok's Jealousy - whenever someone touches Gotnafiskr or a representation of Gotnafiskr, that person's fingers bleed.
 - Aarok is bound to Gotnafiskr's Jealousy - whatever Aarok begins, Gotnafiskr is compelled to end.
 - Aarok and Gotnafiskr were once regarded as the parents of the dwarves.
 - They engage in a cycle of beginnings, invention according to need, tempering according to tradition, and endings. What Aarok begins, Gotnafiskr must end. Not all of them are good; not all of them are bad. This can apply to things like war, but also to things like bringing a prototype to market.
