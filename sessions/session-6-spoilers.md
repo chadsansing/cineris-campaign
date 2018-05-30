@@ -48,7 +48,7 @@ Binding Aarok in this way will keep Root from summoning and binding him in anoth
 
 Gotnafiskr must arrange and inflict calamaties on the dwarves to keep them in a cycle of beginnings or endings, or they must end them, and they can see a day when no more dwarves live on Cineris because of them. They birthed the dwaves in response to Aarok's idea of children who needed his teaching and could create with him and perhaps one day surpass him.
 
-Gotnafiskr can equip the party with camoflauge cloaks having had enough time to reverse-engineer Petra's work and build a few more prototypes.
+Gotnafiskr can equip the party with camouflage cloaks having had enough time to reverse-engineer Petra's work and build a few more prototypes.
 
 At some point, Gotnafisker will probably also just wipe away the human side of Visus with a wave or something.
 
@@ -273,7 +273,7 @@ PCs can go after Root at Stoneshaper Keep, track down 1 more artifcer before Roo
 
 Root understands that the PCs and maybe Naardor have betrayed him and has sped up his timetable, shevling some goals to move more quickly through his milestones.
 
-Root now wants to summon the Black Masks he has - which number in the low hundreds - and send them into Denokta with camoflauge cloaks to assisinate the human government and elites. He needs to capture Hamner and speed up synthetic crystal production to do this. He has hired Fishhook to capture Hamner.
+Root now wants to summon the Black Masks he has - which number in the low hundreds - and send them into Denokta with camouflage cloaks to assisinate the human government and elites. He needs to capture Hamner and speed up synthetic crystal production to do this. He has hired Fishhook to capture Hamner.
 
 Dril will have intelligence that Root is speeding up, Magamtic agents have been seen in Stranger communities outside the Soma Ring, Portia, and Visus, and that he seems to be prepping a upply train that could support dozens, if not hundred, of operatives.
 
