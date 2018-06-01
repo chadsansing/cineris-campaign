@@ -56,4 +56,4 @@
 - How to wield Aarok's Sword.
 - What to do about Faelin.
 
-*PCs, please submit an issue or edit this entry directly if I've missed anything!*
+*Players, please submit an issue or edit this entry directly if I've missed anything!*
