@@ -218,7 +218,7 @@ If Jem survives, it might be cool to pay for a shardstorm attack on Stoneshaper 
 
 Notes from [session-6-spoilers.md](session-6-spoilers.md) sketch out Stoneshaper Keep and scenarios and locations the PCs might encounter in Denokta. Refer to those notes to create the context for improvising what happens next. We are near the end of this part of the campaign. Generally, the PCs can:
 
-- Assault Root and Stoneshaper Keep, or infiltrate the latter to confront the former.
+- Assault Root and Stoneshaper Keep, directly or indirectly, or infiltrate the latter to confront the former.
 - Go to Denokta, evade or fight through Black Mask scouts, pass through the river on level 3, hit the Chamber of Need, and then unlock and raise the City of Aarok (freeing Gotnafiskr) by satisfying the Iron Seneschals in Ruundum's Hall.
 - Infiltrate the caravan and "invade" Denokta with Root's forces.
 
