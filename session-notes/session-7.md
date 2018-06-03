@@ -30,7 +30,7 @@
   - Kill Root and take over his more traditional forces and technologies to drive out the humans.
   - Beat Root to Denokta, his new target for a Black Mask-led decapitation attack, and find the sign they need to know Gotnafiskr is real.
   - Take time to track down 1 last artificer and learn more of Root's design before acting against him.
-- After listening to Gotnafiskr, the group decides it has time to track down one last artificer (out of 3 remaining at-large), Jem Brightblade, before either moving against Root or beating him to his target: Denokta, the human-held capital of the homelands that spans above and below ground.
+- After listening to Gotnafiskr, the group decides it has time to track down one last artificer (out of 3 remaining at-large), Jem Brighthelm, before either moving against Root or beating him to his target: Denokta, the human-held capital of the homelands that spans above and below ground.
 - Jem is climbing Mount Cineris, looking for the crypt of Aarok's last sleeping.
 
 # Key understandings
