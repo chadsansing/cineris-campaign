@@ -146,7 +146,7 @@ Once the PCs complete their encounter with Jem, they will have to decide how to 
 
 #### Preparing for adventure
 
-If the PCs haven't detailed their advancement in the repo, they should take time at the beginning of the session for character advancement, buying Strategic Assets, and preparing for their putsuit of Jem. This will be the last time Naardor can help them before he attempts to disappear.
+If the PCs haven't detailed their advancement in the repo, they should take time at the beginning of the session for character advancement, buying Strategic Assets, and preparing for their pursuit of Jem. This will be the last time Naardor can help them before he attempts to disappear.
 
 PCs should remember the gifts Naardor gave them.
 
