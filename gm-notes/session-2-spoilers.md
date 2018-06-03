@@ -89,7 +89,7 @@ Jem was taken into Root Stoneshaper's inner circle of Aarok workshippers and cam
 
 Jem is a weapons designer. She stole a prototype great sword she'd been devloping that captured its victims souls if she could utter their true names as she delivered the killing stroke. Root gave her apostates and corporate spies for testing.
 
-She has taken the sword - Soul Swallower - into the E-W mountains to search out the fabled tomb of Aarok and to try to awaken her god, proving her worth and superiority over Root. She dreams of killing Root with Soul Swallower and bing given Magmatic as a reward from Aarok. She can't resist its wealth and is sure she could turn it around back into a successful, artesian corporation. 
+She has taken the sword - Bloody Warden (a.ka.a. Soul Swallower) - into the E-W mountains to search out the fabled tomb of Aarok and to try to awaken her god, proving her worth and superiority over Root. She dreams of killing Root with Soul Swallower and bing given Magmatic as a reward from Aarok. She can't resist its wealth and is sure she could turn it around back into a successful, artesian corporation. 
 
 - HP 10
 - MP 6
