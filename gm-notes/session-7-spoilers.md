@@ -192,6 +192,8 @@ Inside the tomb are Aarok's Bones, a relic.
 
 **Aarok's Bones**
 
+  - Macbre: these blackened, cracked bones are oozing sooty, smoky-smelling marrow and other gunk as Aarok tries to find a corporeal form in response to Root's ritual magic and needs. If the PCs were to find a necromancer to reform the skeleton correctly, it might come to life and become an avatar bound to Root's needs at this point since the City of Aarok isn't raised and no one is casting ritual magic against Root's cultists.
+
 - Great powers
 
   - The presence of any PC carrying Aarok's bones intimidates other dwarves around them and makes other dwarves ignore a success on any roll made aganst the PC carrying the bones.
@@ -231,6 +233,7 @@ Some things the PCs might find in Stoneshaper Keep:
 - Unassigned red crystals.
 - A small armory for the keep's guards.
 - Root's treasures (e.g. the jewels, paintings, and artifacts on display).
+- The ritualists attempting to raise Aarok.
 
 Beats to hit include:
 
