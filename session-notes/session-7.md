@@ -30,7 +30,7 @@
   - Kill Root and take over his more traditional forces and technologies to drive out the humans.
   - Beat Root to Denokta, his new target for a Black Mask-led decapitation attack, and find the sign they need to know Gotnafiskr is real.
   - Take time to track down 1 last artificer and learn more of Root's design before acting against him.
-- After listening to Gotnafiskr, the group decides it has time to track down one last artificer (out of 3 remaining at-large), Jem Brightblade, before either moving against Root or beating him to his target: Denokta, the human-held capital of the homelands that spans above and below ground.
+- After listening to Gotnafiskr, the group decides it has time to track down one last artificer (out of 3 remaining at-large), Jem Brighthelm, before either moving against Root or beating him to his target: Denokta, the human-held capital of the homelands that spans above and below ground.
 - Jem is climbing Mount Cineris, looking for the crypt of Aarok's last sleeping.
 
 # Key understandings
@@ -48,6 +48,8 @@
 - Aarok's Sword takes special handling to wield because it glows white-hot when swung.
 - Root has sped up his timetable. His agents are waking the Black Mask sleepers in Stranger communities. He's preparing a caravan at Stoneshaper Keep. His plan seems to be to have his Black Masks infiltrate Denokta using some kind of stealth technology in order to assisnate the ruling class, Denokata's military leaders, and all their families (or at least that's what Psalt would do). It's a matter of weeks, not months, until Root can mobilize the caravan.
 - Faelin is in an increasingly compromised position that requires him to deal with his human heritage.
+- Normal risk is at 26%. The PCs have gone from nuisance to disruption.
+- Magmatic risk is at 13%.
 
 # Key decisions
 
