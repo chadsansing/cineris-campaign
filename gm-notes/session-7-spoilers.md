@@ -134,7 +134,7 @@ You have to hit this Golem with 2 or more successes to do damage because of its 
 
 After surviving a Risk Eater attack and interviewing Dril - or Gotnafiskr - last session, the PCs have decided to track down one more artificer before confronting Root. Root, in the meantime, has sped up his timetable and changed his plans; he is rallying his Black Masks from their sleeper cels in Stranger communities to travel west by caravan in hopes of setting up a decaptitation strike on the human government and military in Denokta, capital of the occupied homelands.
 
-The PCs understand some of the relationshop between Aarok and Gotnafiskr and why Gotnafiskr wants Root killed - for trying to bind Aarok to his will and for ignoring Gotnafiskr's place in the mythology they share with Aarok. Gotnafiskr's ultimate aim is to drive out the humans, as well.
+The PCs understand some of the relationshop between Aarok and Gotnafiskr and why Gotnafiskr wants Root killed - for trying to bind Aarok to his will, for perverting dwarven identity with the Black Masks, and for ignoring Gotnafiskr's place in the mythology they share with Aarok. Gotnafiskr's ultimate aim is to drive out the humans, as well.
 
 Faelin is in a weird place.
 
