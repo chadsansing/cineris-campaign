@@ -1,8 +1,8 @@
-# Cineris session 6 - SPOILER ALERT
+# Cineris session 7 - SPOILER ALERT
 
 ***PCs, you should not read past this line of text.***
 
-***GMs, here are notes for session 6 of the Cineris campaign.***
+***GMs, here are notes for session 7 of the Cineris campaign.***
 
 ## Agenda
 
