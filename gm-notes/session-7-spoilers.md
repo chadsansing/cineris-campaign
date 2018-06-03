@@ -198,7 +198,7 @@ Inside the tomb are Aarok's Bones, a relic.
 
   - The presence of any PC carrying Aarok's bones intimidates other dwarves around them and makes other dwarves ignore a success on any roll made aganst the PC carrying the bones.
   - The PC carrying the bones adds a success to any Charm, Deception, Menace, or Performance roll made against other dwarves.
-  - A splinter sect of the cult of Aarok and Gotnafiskr now serves the PC who holds the bones. They are code clerics specializing in reading, translating, and decrupting ancient texts on Cineris.
+  - A splinter sect of the cult of Aarok and Gotnafiskr now serves the PC who holds the bones. They are code clerics specializing in reading, translating, and decrypting ancient texts on Cineris.
 
 - Great costs
 
