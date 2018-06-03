@@ -206,6 +206,8 @@ Inside the tomb are Aarok's Bones, a relic.
   - Aarok and Gotnafiskr - and other dwaven gods - are aware of the PC's whereabouts and general condition at all times.
   - The PC is bound to the bones and becomes irrationally unwilling to give them up to anyone but Aarok or Gotnafiskr; they must fight to the death to keep and protect the bones.
 
+If Jem becomes an agent of the PCs, she will warn them before they touch the bones that whoever carries them has to keep them until they can be surrendered to Aarok's new avatar. She will also say they have great power and that dwarves fear whoever carries them unless they follow that person and, by extension, Aarok. She will ask for her sword back and for the bones and express a desire to infiltrate the caravan, subvert as many Black Masks and conventional Magmatic personnel as possible, and deliver them into the PCs service as a cel. She will still help if denied, but that is her plan.
+
 #### Going after Root
 
 The last part of the session should be spent planning for an assault on Root or his interests.
