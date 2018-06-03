@@ -176,7 +176,7 @@ Roll for Risk and Magmatic Risk.
 
 On the second day of the climb, near the Crypt of Aarok's last sleeping, the PCs will be ambushed by Jem's guard. She's left them behind to watch her back.
 
-The guard includes 3 combat cloaks and 1 magic cloak. The magic cloak will stay back under cover, as will 1 combact cloak with a crossbow. The 2 combat cloaks with sword & dagger will engage the PCs.
+The guard includes 3 combat cloaks and 1 magic cloak. The magic cloak will stay back under cover, as will 1 combat cloak with a crossbow. The 2 combat cloaks with sword & dagger will engage the PCs.
 
 #### The crypt of Aarok's last sleeping
 
@@ -202,7 +202,7 @@ Inside the tomb are Aarok's Bones, a relic.
 
   - The PC is compelled to follow Aarok and Gotnafiskr and must align decisions with their needs or else make a tough Will power check to act indepdendently.
   - Aarok and Gotnafiskr - and other dwaven gods - are aware of the PC's whereabouts and general condition at all times.
-  - The PC is bound to the bones and becomes irrationally unwilling to give them up to anyone by Aarok or Gotnafiskr; they must fight to the death to keep and protect the bones.
+  - The PC is bound to the bones and becomes irrationally unwilling to give them up to anyone but Aarok or Gotnafiskr; they must fight to the death to keep and protect the bones.
 
 #### Going after Root
 
