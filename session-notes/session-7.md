@@ -48,7 +48,7 @@
 - Aarok's Sword takes special handling to wield because it glows white-hot when swung.
 - Root has sped up his timetable. His agents are waking the Black Mask sleepers in Stranger communities. He's preparing a caravan at Stoneshaper Keep. His plan seems to be to have his Black Masks infiltrate Denokta using some kind of stealth technology in order to assisnate the ruling class, Denokata's military leaders, and all their families (or at least that's what Psalt would do). It's a matter of weeks, not months, until Root can mobilize the caravan.
 - Faelin is in an increasingly compromised position that requires him to deal with his human heritage.
-- Normal risk is at 26%.
+- Normal risk is at 26%. The PCs have gone from nuisance to disruption.
 - Magmatic risk is at 13%.
 
 # Key decisions
