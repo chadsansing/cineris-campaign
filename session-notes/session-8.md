@@ -17,7 +17,7 @@
 - The group leaves for Mount Cineris to pursue Jem Brighthelm, former Magmatic artifcer.
 - At the base of Mount Cineris, near the path beginning its eastern approach, the group finds evidence of a camp and a cache of supplies. Faelin also sees magic streaming out of a fissure high up the mountain side.
 - Faelin safely guides the group up the eastern face of the mountain while Kilvar scouts for trouble.
-- Kilvar anticipates an ambush, and the group visciously slaughters the 4 dwarven cloaks who made up Jem's rearguard. Ob takes a mortal wound, but Faelin stabilizes him, spending a point of Risk to save his life.
+- Kilvar anticipates an ambush, and the group visciously slaughters the 4 dwarven cloaks who made up Jem's rearguard. Ob takes a mortal wound, but Faelin stabilizes him, spending a point of Risk to save Ob's life.
 - It's clear from their remaining gear that these dwarves set up the camp and cache at the base of the mountain. 
 - Kilvar and Ob feel justified in the killings since they were attacked. Psalt and Wally have reservations about killing other dwarves on a campaign to rally the dwarves against the humans. Faelin is saddened to see so much loss of life and to anticipate more.
 - The party completes its ascent to the fissure Faelin saw. It leads to a narrow tunnel. Kilvar scouts the tunnel and finds that it opens into a natural chamber in the mountainside holding a stone sarcophagus. This is the crypt of Aarok's last sleeping.
