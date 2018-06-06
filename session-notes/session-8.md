@@ -1,7 +1,7 @@
 # Key NPCs
 
 - Jem Brighthelm, a former Magmatic artificer on the hunt for Aarok's bones.
-- Naardor Gearsmith, an ally and agent of Gotnafiskr who helps the PCs before attempting to disappear into retirement.
+- Naardor Gearsmith, a former Magmatic executive, party ally, and agent of Gotnafiskr who helps the PCs before attempting to disappear into retirement.
 - Gotnafiskr, dwarven god of finishing, tempering, making dreams real, and endings; formerly known as Dril, scales in darkness
 
 # Key locations
