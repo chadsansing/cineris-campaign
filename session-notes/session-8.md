@@ -30,7 +30,7 @@
 - Psalt converts his armor into True-Name Plate and charges into battle shouting his true name for all to hear.
 - The party quickly shatters the Golem, and it spills Aarok's bones. They are jumbled, charred, black, stinking, and oozing what seems to be marrow and other bits of viscera and tendons, as if the bones were trying to remake the body they inhabited. Root's ritual magic is likely summoning that last "fleshy" incarnation of Aarok back to life from these bones.
 - Gotnafiskr warns that the bones must be protected. They say any dwarf who carries all of them will have increased powers of persuasion over other dwarves.
-- Psalt tells the group to divvy up the bones between each member of the party so no single party members gets the power of the bones.
+- Psalt tells the group to divvy up the bones between each member of the party so no single party member gets the power of the bones.
 - Kilvar grabs Jem's arm to reveal that she has the Aarok tattoo. Jem pulls away and begins raising her crystal cleaver.
 
 # Key understandings
