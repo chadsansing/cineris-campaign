@@ -275,6 +275,7 @@ Gotnafiskr's goals:
 2. Obliterate Root for trying to control Aarok.
 3. Retake the homelands.
 4. Restore the Black Masks to their dwarven selves.
+5. Preserve the dwarves through trial by calamity.
 
 #### Aarok, the molten dread
 
@@ -284,6 +285,7 @@ Aarok's goals:
 
 1. Invent whatever is needed to meet the needs of his children, the dwarves.
 2. Reunite with Gotnafiskr.
+3. Preserve the dwarves.
 
 #### Ruundum
 
