@@ -295,6 +295,7 @@ Ruundum's goals:
 
 1. Preserve the City of Aarok until it's needed by the dwarves.
 2. Begin a new golden age of dwarven craft and culture.
+3. Preserve the dwarves.
 
 ##### The Chamber of Need
 
