@@ -212,11 +212,11 @@ If Jem becomes an agent of the PCs, she will warn them before they touch the bon
 
 The last part of the session should be spent planning for an assault on Root or his interests.
 
-This should be improvised according to PCs plans. Jem may or may not b around to help along with the PCs other assets.
+This should be improvised according to PCs plans. Jem may or may not be around to help along with the PCs other assets.
 
 If PCs want to get home quickly or to Portia or Denokta via Gigaphids hired from the elves, they can go down the challening face of Mount Cineris. They need 10 acrobatics or athletics successes to make the descent that way. On any roll with 3 or more botches, a PC takes a critical wound - like a broken bone, and has to be stabilized somehow before contuining or else slow the group down by another day per wounded PC. Otherwise, they can backtrack and travel by horse, but it will take a few days instead of 1.
 
-If Jem survives, it might be cool to pay for a shardstorm attack on Stoneshaper Keep while also sending in Jem's raiding cel.
+If Jem survives, it might be cool to pay for a shardstorm attack on Stoneshaper Keep while also sending in Jem's raiding cell.
 
 Notes from [session-6-spoilers.md](session-6-spoilers.md) sketch out Stoneshaper Keep and scenarios and locations the PCs might encounter in Denokta. Refer to those notes to create the context for improvising what happens next. We are near the end of this part of the campaign. Generally, the PCs can:
 

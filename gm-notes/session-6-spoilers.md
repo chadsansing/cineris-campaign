@@ -70,7 +70,7 @@ Aarok's goals:
 
 #### Ruundum
 
-An ancient dwarven king who worked with Gotnafiskr before the last sleeping to create the Chamber of Need, Ruundum's Hall, and the city of Aarok. Ruundum ruled over a time of peace and prosperity below ground and centralized the workship of Aarok and Gotnafiskr. An unknown calamity buried his civilization and others were built on top of it. Maybe orcs. Maybe another darven nation worshipping another god. Ruundum can answer questions about this if the PCs ask and create this lore.
+An ancient dwarven king who worked with Gotnafiskr before the last sleeping to create the Chamber of Need, Ruundum's Hall, and the city of Aarok. Ruundum ruled over a time of peace and prosperity below ground and centralized the workship of Aarok and Gotnafiskr. An unknown calamity buried his civilization and others were built on top of it. Maybe orcs. Maybe another dwarven nation worshipping another god. Ruundum can answer questions about this if the PCs ask and create this lore.
 
 ##### The Chamber of Need
 
@@ -242,7 +242,7 @@ Fishhook's goals:
 - C 5d10
 - M 5d10
 - To hit 8
-- P/D 5d10
+- P/D 8
 - Mail 1 DR
 - Spells
   - Kill ball
