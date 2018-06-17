@@ -365,7 +365,7 @@ Root's goals:
 2. Free the homelands.
 3. Rule the homelands.
 4. Drive the dwaves into a new age of technology and manufacturing that will free them of the Risk Eater threat forever.
-5. Decapitate the Risk Eaters. 
+5. Decapitate the Risk eaters. 
 6. Kill everything in his way.
 
 #### Fishhook
