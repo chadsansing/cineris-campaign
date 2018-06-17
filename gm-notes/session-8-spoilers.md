@@ -51,8 +51,8 @@ Jem has the prototype steel and red crystal sword known as the Bloody Warden. It
 - Combat 5d10
 - Magic 2d10 + 3d6
 - To hit 8
-- Dodge/Parry 2d10 + 3d6
-- Battleaxe
+- D/P 4
+- Claymore
 - Spells
   - Name wraith (5)
   - Psychometry (3)
@@ -118,7 +118,7 @@ Jem has the prototype steel and red crystal sword known as the Bloody Warden. It
 - C 5d10
 - M 5d10
 - To hit 8
-- P/D 8
+- D/P 8
 - Mail 1 DR
 - Sword
 - Spells
