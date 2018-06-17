@@ -427,7 +427,7 @@ If Jem becomes an agent of the PCs, she will warn them before they touch the bon
 - *"I wonder if it will be safe for us on Cineris after this," or, "We need an exit strategy if Root beats us to Denokta."*
 - *"I wonder what it means for us to win and for Root to lose," or, "I wonder if Root can still be reasoned with dwarf-to-dwarf."*
 - *"When I think of the dwarves we've killed, I keep thinking of my childhood friends and the games we played," or, "I wonder what Gotnafiskr will do if Root just doesn't come back."*
-- *"So, Wally, I bet you do a pretty good Ob impression", or, "Hey, Wally, abouy that mask: do me! Do me!"*
+- *"So, Wally, I bet you do a pretty good Ob impression", or, "Hey, Wally, about that mask: do me! Do me!"*
 - *"I'm gonna move into Naardor's place after all this is over; who's with me?", or, "I'm gonna move into Stoneshaper Keep after this is all over; who's in?"* 
 - *"Ob, describe a challenge you faced on the road; Wally tell us how the party overcame it."*
 - *"Psalt, describe an encounter you had on the road; Faelin, tell us how it went."*
