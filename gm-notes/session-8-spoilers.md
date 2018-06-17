@@ -267,6 +267,8 @@ Gotnafiskr can equip the party with camouflage cloaks having had enough time to 
 
 At some point, Gotnafisker will probably also just wipe away the human side of Visus with a wave or something.
 
+Aarok and Gotnafiskr might be convinced to kill one another to end the cycle that they think will destroy their children, the dwarves. Cue the final verse from "Far from Any Road."
+
 Gotnafiskr's goals:
 
 1. Raise the city of Aarok before Root can bind Aarok to something else and thereby reunite with Aarok.
