@@ -365,7 +365,7 @@ Root's goals:
 
 #### Fishhook
 
-Fishhook is a former frenemy of Ob's from his fishing and mercenrary days. He's been hired by Root in Portia to track down Hamner since the PCs have betrayed Root. His next mission will be to kill the PCs.
+Fishhook is a former frenemy of Ob's from his fishing and mercenary days. He's been hired by Root in Portia to track down Hamner since the PCs have betrayed Root. His next mission will be to kill the PCs.
 
 - HP 12
 - MP 4
