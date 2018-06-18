@@ -378,7 +378,7 @@ Fishhook is a former frenemy of Ob's from his fishing and mercenary days. He's b
 - M 1d10 + 4d6
 - To hit 8
 - D/P 8
-- Hook hand +1 damage
+- Hook hand, macabre, gore-caked, ap
 - Spells
   - Messenger
   - Tracer
