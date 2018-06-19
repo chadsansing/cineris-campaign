@@ -393,9 +393,14 @@ Fishhook's goals:
 
 Aarok's Bones. The Bloody Warden. Loot from any cloaks killed on Mount Cineris. Gotnafiskr's gifts on *The Weeping Angel*. Loot from Black Masks and dead humans in Denokta. Loot from Root and his Red and Silver Masks. Loot from the City of Aarok. Boons from the Chamber of Need.
 
+**Camouflage cloak**
+
+- +1 success to stealth rolls
+- -1 botch from stealth rolls
+
 **Aarok's Bones**
 
-  - Macbre: these blackened, cracked bones are oozing sooty, smoky-smelling marrow and other gunk as Aarok tries to find a corporeal form in response to Root's ritual magic and needs. If the PCs were to find a necromancer to reform the skeleton correctly, it might come to life and become an avatar bound to Root's needs at this point since the City of Aarok isn't raised and no one is casting ritual magic against Root's cultists.
+- Macbre: these blackened, cracked bones are oozing sooty, smoky-smelling marrow and other gunk as Aarok tries to find a corporeal form in response to Root's ritual magic and needs. If the PCs were to find a necromancer to reform the skeleton correctly, it might come to life and become an avatar bound to Root's needs at this point since the City of Aarok isn't raised and no one is casting ritual magic against Root's cultists.
 
 - Great powers
 
