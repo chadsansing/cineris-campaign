@@ -31,7 +31,7 @@ Jem is a fighter, weapons designer, and former Magmatic artificer. She was part 
 Jem wants to:
 
 - Raise Aarok.
-- Prove herself worthy to be Aarok's chief priest and lieutenant over Root.
+- Prove herself worthy to be Aarok's chief warpriest and lieutenant over Root.
 - Kill Root, if necessary.
 - Follow Aarok to drive out the humans.
 
@@ -405,7 +405,7 @@ Aarok's Bones. The Bloody Warden. Loot from any cloaks killed on Mount Cineris. 
 
 - Great costs
 
-  - The PC is compelled to follow Aarok and Gotnafiskr and must align decisions with their needs or else make a tough Will power check to act indepdendently.
+  - The PC is compelled to follow Aarok and Gotnafiskr by proxy and must align decisions with their needs or else make a tough Will power check to act indepdendently.
   - Aarok and Gotnafiskr - and other dwaven gods - are aware of the PC's whereabouts and general condition at all times.
   - The PC is bound to the bones and becomes irrationally unwilling to give them up to anyone but Aarok or Gotnafiskr; they must fight to the death to keep and protect the bones.
 
@@ -430,5 +430,5 @@ If Jem becomes an agent of the PCs, she will warn them before they touch the bon
 - *"So, Wally, I bet you do a pretty good Ob impression", or, "Hey, Wally, about that mask: do me! Do me!"*
 - *"I'm gonna move into Naardor's place after all this is over; who's with me?", or, "I'm gonna move into Stoneshaper Keep after this is all over; who's in?"* 
 - *"Ob, describe a challenge you faced on the road; Wally tell us how the party overcame it."*
-- *"Psalt, describe an encounter you had on the road; Faelin, tell us how it went."*
-- *"Kilvar, describe a dream you had on the road then pick another player; then that player will tell us what they made of it."*
+- *"Psalt, describe how a mysterious stranger approached you on the road; Faelin, tell us how the encounter went."*
+- *"Kilvar, name a dwarven game you remember playing as a child; then pick another play to describe how you all played it."*
