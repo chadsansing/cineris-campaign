@@ -30,7 +30,7 @@ Jem is a fighter, weapons designer, and former Magmatic artificer. She is also a
 
 She is raising a force of irreuglars to prevent Root from carrying out his plans in Denokta. She wants to kill Root and serve as Aarok's chief lieutenant in the war to reclaim the dwarven homelands.
 
-Right now Jem and 24 irregulars recruited from around Portia and Magmatic are pusuing the "small caravan" heading west from Portia to Visus. She is in contact with the PCs through thei blue crystal shard network.
+Right now Jem and 24 irregulars recruited from around Portia and Magmatic are pusuing the "small caravan" heading west from Portia to Visus. She is in contact with the PCs through their blue crystal shard network.
 
 See also: past session notes.
 
@@ -38,13 +38,13 @@ See also: past session notes.
 
 Gotnafiskr is the dwarven god of tempering, finishing, endings, trial-by-crisis, and water. They are a parent of the dwarves, as is their partner, Aarok, the Molten Dread, god of beginnings, necessity, invention, fire, and dwarven survival. 
 
-Gotnafiskr is the characters' patron and will encourage them deal with the small caravan and then make their way to Denokta before Root arrives.
+Gotnafiskr is the characters' patron and will encourage them to deal with the small caravan and then make their way to Denokta before Root arrives.
 
 Aarok is being raised by ritual magic performed by Magmatic staffers; they are not yet fully formed on Cineris. Aarok typically "sleeps" whenevever the dwarves forget them or don't need them, losing their last form. They must be raised anew by need in every age. Gotnafiskr keeps one of their forms and sleeps, but is woken whenever the dwarves begin to raise Aarok so Gotnafiskr can see what Aarok begins and then finish it.
 
-Aarok is bound to those that summon him. Gotnafiskr disapproves of Root Stoneshaper, the current mogul of Magmatic (a crystal shard, fashion, and accessories company ouf of Portia) because Root takes shortcuts in his work to overthrow the humans, and his shortcuts destroy dwarves' identities. Gotnafiskr wants to kill Root, bind Aarok to the dwarves' need to return home, and lead the war to drive out the human invaders from Cineris.
+Aarok is bound to those that summon him. Gotnafiskr disapproves of Root Stoneshaper, the current mogul of Magmatic (a crystal shard, fashion, and accessories company ouf of Portia) because Root takes shortcuts in his work to overthrow the humans, and his shortcuts destroy dwarves' identities. Gotnafiskr wants to kill Root, bind Aarok to the dwarves' need to return home, and lead the war to drive out the human invaders from Cineris. Gotnafiskr hates Root and is jealous of his hold over Aarok.
 
-Gotnafiskr wants to kill Root before he launches his plan, free herself from her sleeping place under Denokta, raise the City of Aarok with the help of King Runduum's court of iron seneschals, and then rally all of the dwarves on Cineris to their cause to finish the campaign of liberation started by Aarok and Root. Gotnafiskr hates Root and is jealous of his hold over Aarok.
+Gotnafiskr also wants to free themself from their sleeping place under Denokta, raise the City of Aarok with the help of King Runduum's court of iron seneschals, and then rally all of the dwarves on Cineris to their cause to finish the campaign of liberation started by Aarok and Root.
 
 See also: past session notes.
 
@@ -154,15 +154,15 @@ The Risk Eaters wants chaos on Cineris so continued violence there drives contin
 
 ### Background
 
-We are withing striking distance of evolsing this part of the campaign. A lot depends on PCs' decisions. The end game in Denokta and the City of Aarok is described in past sessions and will be outlined below under "Exploring Denokta." The cliffhanger will be the moment between dealing with Root and assaulting the humans.
+We are withing striking distance of closing this part of the campaign. A lot depends on PCs' decisions. The end game in Denokta and the City of Aarok is described in past sessions and will be outlined below under "Exploring Denokta." The cliffhanger will be the moment between dealing with Root and assaulting the humans.
 
 Having escaped the Magmatic ambush on Mount Cineris, the PCs and Jem Brighthelm return to Portia to regroup.
 
-They learn that Root has sent 2 caravans out of the city, A small, but heavily guarded, caravan left from the west gate and headed towards Visus. A big caravan of several dozen wagons and +/- 500 troops left the north gate, but the PCs don't know where it's going.
+They learn that Root has sent 2 caravans out of the city, A small, but heavily guarded, caravan left from the west gate, headed towards Visus. A big caravan of several dozen wagons and +/- 500 troops left the north gate, but the PCs don't know where it's going.
 
-Jem leaves the group to begin raising a force to stop Root. She has the Bones of Aarok to help her compel dwaves to serve her cause. This session she is a strategic asset the PCs can use as a mercenary force.
+Jem leaves the group to begin raising a force to stop Root. She has the Bones of Aarok to help her compel dwaves to serve her cause. During this session (and beyond, if she survives) she is a strategic asset the PCs can use as a mercenary force.
 
-The PCs hire elvish scouts to watch Kilvar's Pass for signs of the big caavan. They also hire dwarven scouts to search for the big caravan in the wasteland. Finally, they hire a spy in the halls of power of Denokta to help them understand what's happening there. The PC's spy in the Magmatic cult of Aarok is still alive and reporting, as well.
+The PCs hire elvish scouts to watch Kilvar's Pass for signs of the big caravan. They also hire dwarven scouts to search for the big caravan in the wasteland. Finally, they hire a spy in the halls of power of Denokta to help them understand what's happening there. The PC's spy in the Magmatic cult of Aarok is still alive and reporting, as well.
 
 ### Scenes
 
@@ -220,23 +220,23 @@ Root's part of the end game happens in Denokta. Scenarios are described in past 
 - The Chamber of Need would be the equivalent of level -9 or so.
 - Ruundum's Hall would be the equivalent of level -10 or so.
 
-The Chamber of Need gives PCs the chance to reinvent themselves gy exchanging part of their soul for part of a hero's soul trapped in one of the chamber's giant crystals. King Runduum, a worshipper and servant of Aarok and Gotnafiskr, collected parts of the souls of his followers and prisoners in case dwarves needed them in the future. 
+The Chamber of Need gives PCs the chance to reinvent themselves by exchanging part of their soul for part of a hero's soul trapped in one of the chamber's giant crystals. King Runduum, a worshipper and servant of Aarok and Gotnafiskr, collected parts of the souls of his followers and prisoners in case dwarves needed them in the future. 
 
 The GM asks each PC to describe who they see in the crystal when they think of what they need the most right now. The PCs invent names and histories for their visions. Then they can reach out to the visions or not. If they do, the enter a process of becoming both heroes at once while some of their soul goes into the crystal to make room for what they take.
 
-Nightmares accompany this process. PCs have to opt in to this functional re-spec; a nightmare hasbeen written for each in past session notes. Some feature horror that should be facilitated with care and with X/line/veil tools in PCs' hands to end or skip the scenes.
+Nightmares accompany this process. PCs have to opt in to this functional re-spec; a nightmare has been written for each in past session notes. Some feature horror that should be facilitated with care and with X/line/veil tools in PCs' hands to end or skip the scenes.
 
 Runduum's Hall is where Runduum and 3 other iron seneschals (masterwork oracles) await the PCs to unlock the pipes that will send magma under Black Lake, causing the deep waters to become steam and raise the City of Aarok in a moment of dwarves' need. When the pipes are unlocked, Gotnafiskr is also frred to swim to Black Lake and emerge in her martial form.
 
 This hall has a pool of magma on one side against which the PCs will find Root and the Red Mask and Silver Mask attempting to summon Aarok from the magma.
 
-The PCs can kill Root, or Gotnafisk can breach the magma and snap him in 2 pieces that land at his daughters' feet (the Red and Silver Masks). They will mourn in a way that implies some kind of connection bewteen them and Root, and then turn on the PCs to commit suicide by combat.
+The PCs can kill Root, or Gotnafiskr can breach the magma and snap him in 2 pieces that land at his daughters' feet (the Red and Silver Masks). They will mourn in a way that implies some kind of connection bewteen them and Root, and then turn on the PCs to commit suicide by combat.
 
 If the PCs have time to go to Black Lake after resolving Denokta (do the humans evacuate? Do Jem's irregulars work with the Black Masks to slaughter them?) they will witness Gotnafiskr's martial form rising from the lake and see the City of Aarok rise, as well.
 
 This part of the campaign should end with some rewards for the PCs. Maybe treasure. Maybe serving in the city. Maybe being made into a seneschal. 
 
-The next part of the campaign will deal with the Risk Eaters plans for Cineris, what it's like to live during an age of Aarok and Gotnafisrk, the attack on the human invaders, and what kind of future there is on Cineris if the dwarves win.
+The next part of the campaign will deal with the Risk Eaters plans for Cineris, what it's like to live during an age of Aarok and Gotnafiskr, the attack on the human invaders, and what kind of future there is on Cineris if the dwarves win.
 
 See also: notes from past sessions.
 
