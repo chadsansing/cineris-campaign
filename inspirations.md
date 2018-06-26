@@ -19,14 +19,14 @@ Here are some of the notes from that earlier campaign:
 
 *The original map of Cineris*
 
-![Ur-Cineris](/images/ur-cineris.jpg)
+<img src="/images/ur-cineris.jpg" alt="Ur-Cineris">
 
 *The original world-map*
 
-![Ur-world](/images/ur-world.jpg)
+<img src="/images/ur-world.jpg" alt="Ur-world">
 
 *Temeroth, the Antediluvian, the ur-Gotnafiskr*
 
-![Ur-Gotnafiskr](/images/ur-gotnafiskr.jpg)
+<img src="/images/ur-gotnafiskr.jpg" alt="Ur-Gotnafiskr">
 
 New content for the 2018 campaign includes everything Cryptomancer brings to the table as a game, along with Gotnafiskr, Root and Magmatic, the 5 artificers, and Dril.
