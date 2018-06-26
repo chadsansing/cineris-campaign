@@ -21,11 +21,11 @@ Here are some of the notes from that earlier campaign:
 
 <img src="images/ur-cineris.jpg" width="400px" alt="Ur-Cineris">
 
-*The original world-map*
+*The original world map*
 
 <img src="images/ur-world.jpg" width="400px" alt="Ur-world">
 
-*Temeroth, the Antediluvian, the ur-Gotnafiskr*
+*Temeroth, the Antediluvian, the original Gotnafiskr*
 
 <img src="images/ur-gotnafiskr.jpg" width="400px" alt="Ur-Gotnafiskr">
 
