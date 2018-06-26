@@ -3,7 +3,7 @@
 
 Bits and pieces of this campaign came to me from:
 
-- "Darmok and Jalad at Tanagra" from Star Trek: The Next Generation
+- "Darmok and Jalad at Tanagra" from *Star Trek: The Next Generation*
 - *Star Trek: Discovery*
 - *Dune* by Frank Herbert
 - *The Family Trade* series by Charles Stross
