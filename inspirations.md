@@ -12,6 +12,7 @@ Bits and pieces of this campaign came to me from:
 - Norse mythology
 - *The Quantum Thief* trilogy by Hannu Rajaniemi
 - *Remembrance of Earth's Past* trilogy by Liu Cixin
+- DARPA bots + "Fix You" by Puddles Pity Party
 
 I ran a previous 4th Edition D&D version of this campaign for the Community Public Charter School's D&D club in 2013. It focused on the dwarven ruler of Portia, a worshipper of Aarok, as the main antagonist, supported by the Red and Silver Masks. That quest line essentially ran due west from Portia to the Ash River mine to the border to the human capital to its underground to the campaign's resolution, so parts of this version will, of course, seem familiar to players in that campaign.
 
