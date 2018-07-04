@@ -154,9 +154,13 @@ The party can spare a night if they want Root to make it to Denokta first for su
 
 This will upset Gotnafiskr, especially if the party had them drown the dwarves at Visus. Gotnafiskr may be leaning towards Jem and away from the group.
 
-#### Denokta of bust
+Interstitials can happen here.
+
+#### Denokta or bust
 
 Still hoping the PCs will make it to Denokta, find the circular river on level 3, follow it, and crash into the Chamber of Need.
+
+Interstitials can happen on the way if they haven't yet. The party can make it through the border fort with a bribe from the locked chests if they think of it.
 
 #### Downstream
 
