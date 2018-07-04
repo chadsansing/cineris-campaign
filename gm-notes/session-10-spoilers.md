@@ -173,7 +173,7 @@ See also: past session notes
 Root's part of the end game happens in Denokta. Scenarios are described in past sessions. Here is an outline of what might happen.
 
 - Travel through the homelands and the slums and camp cities outside Denokta. Little military.
-- Arrive at level 0; pay a toll; enter the city. Some miliary.
+- Arrive at level 0; pay a toll; enter the city. Some military.
 - Enter level -1, the first underground district full of low-income housing and support services. Some military.
 - Descend to level -2, the warehouse district. An underground river rings this district. It is Gotnafiskr's sign. It enters through a waterfall and leaves down another. The PCs can jump down that waterfall and risk a critical or mortal wound to reach the Chamber of Need. Heavy military.
 - Level -3 is where the Black Mask assault will begin. This is the government and elites disctrict with the offices, services, parks, shaopping, and other luxuries one would expect. Heavy military. This is a good place for Kilvar to find his sister, one of the Black Masks, who tries to communicate by playing an old childhood game with him, Crows Bones.
