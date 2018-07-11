@@ -38,10 +38,10 @@ See also: past session notes.
 
 ***Gotnafiskr, the crystal serpent***
 
-50 HP
-5d10
-Armor piercing
-Ignore a botch
+- 50 HP
+- 5d10
+- Armor piercing
+- Ignore a botch
 
 #### Root Stoneshaper
 
