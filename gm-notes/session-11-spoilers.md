@@ -36,7 +36,7 @@ Gods and parents, of sorts, of the dwarves. Trapped in a cycle of jealousy and n
 
 See also: past session notes.
 
-Gotnafiskr
+***Gotnafiskr, the crystal serpent***
 
 50 HP
 5d10
