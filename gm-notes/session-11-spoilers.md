@@ -219,14 +219,14 @@ Depending on how things turn out:
 - Offered you a chance.
 - The things I've discovered I've shared and used. Can your god say the same?
 - Can Gotnafiskr offer you any of this?
-- What I'v done I can learn to undo - the Black Masks were a means to an end, but once we are vitorious, we will find a way to restore them. 
+- What I've done I can learn to undo - the Black Masks were a means to an end, but once we are vitorious, we will find a way to restore them. 
 - Aarok is my muse.
 - A future of finding out what we can do instead of being told what to do.
 - I will end the Risk Eater threat to Cineris, Subterra, and everywhere.
 - Your last chance to achieve a victory we engineered - one in which we manipulate the gods; they do not manipulate us.
 - We have all made it this far; we have all done impossible, heroic things. Do we go foward together, or does this journey end here for some of us?
 
-Gotnafiskr will claim that these are easy lies, as easy for Root to invent as are the devices he unleashes on dwarves and the world. h will become a despot and Aarok will be bound to his need, not to all of the dwarves' need for liberty. What happens when what Root wants becomes different from what the dwarves need?
+Gotnafiskr will claim that these are easy lies, as easy for Root to invent as are the devices he unleashes on dwarves and the world. He will become a despot and Aarok will be bound to his need, not to all of the dwarves' need for liberty. What happens when what Root wants becomes different from what the dwarves need?
 
 ## Outcomes & rewards
 
@@ -259,6 +259,6 @@ See "The end of the beginning" above.
 - *"Ob, you never told the story of how you came to be hired to kill Root Stoneshaper. Share it with the group in a moment of reflection."*
 - *"Kilvar, you never imagined finding your sister again, and you're working out a way to talk with one another until you can reverse her condition. Tell someone in the group a question she has about them and how she responds to their answer."*
 - *"Wally, you never imagined you'd learn so much about your people and land. Tell the group the story of another god you remember hearing about from a family elder when you were young and ask someone in the group if they would help you go looking for them once all this is over."*
-- *"Faelin, you never imagined you would be who you have become. Tell the group who you are and wgat you must do next and ask any group member if they will join you."*
+- *"Faelin, you never imagined you would be who you have become. Tell the group who you are and what you must do next and ask any group member if they will join you."*
 
 
