@@ -36,7 +36,7 @@
 - Ob finishes Root with a punching dagger after Jem and Kilvar pin him between attacks.
 - Gotnafiskr rises from the magma in their serpent form, finally freed from the magma tunnels in which they slept ever since the end of King Runduum's age. They bite Root in half. The masks mourn him before they, too, die from their wounds. 
 - Wally reads one of their masks to discover that the Red and Silver Masks were Root's daughters and victims of his first attempts to prototype the Stranger-like Black Masks.
-- Gotnafiskr summons the party to the City of Aarok at Black Lake. They take Aarok's bones from Faelin and out them into Aarok's iron senseschal form.
+- Gotnafiskr summons the party to the City of Aarok at Black Lake. They take Aarok's bones from Faelin and put them into Aarok's iron senseschal form.
 - Gotnafiskr offers each PC the choice of serving Aarok and Gotnafiskr further or of departing with a gift. 
 - Faelin stays to serve as an ambassador to the humans and to negotiate a merciful surrender for them; it's likely that Radian's past with Runduum, Aarok, and Gotnafiskr also influences his decision. 
 - The others all leave with gifts from Gotnafiskr, eager to learn more about their places in the world and to serve as foils against Gotnafiskr's ambition.
