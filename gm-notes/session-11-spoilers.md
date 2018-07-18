@@ -185,7 +185,7 @@ What happens when they party arrives, if they survive the session, depends on wh
 Depending on how things turn out:
 
 - ***The PCs may be dead.***
-- ***Gotnafisrk may have won.*** Her martial form will rise from the Black Lake as she guides the PCs through the city and offers them rewards.
+- ***Gotnafiskr may have won.*** Her martial form will rise from the Black Lake as she guides the PCs through the city and offers them rewards.
   - The PCs may leave their service or stay.
   - Wally can become a seneschal of her library and become a demigod of dwarven identity on Cineris, able to infuence it through its flora and fauna.
   - Paslt can leave for Sphere to join Naardor, Embery, and Cantor there as her vanguard of agents agaist the Risk Eaters.
