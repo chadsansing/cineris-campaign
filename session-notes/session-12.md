@@ -57,7 +57,7 @@
 - The City of Aarok is a massive, steam-powered home and workshop for the dwarves of Cineris to use as they take back the homelands.
 - Aarok has become an iron seneschal overlooking his city at Black Lake to serve the needs of all dwarves who want to expel the humans from Cineris. Gotnafiskr's throne is next to his at the top of the hill city.
 - Apart from Faelin, the PCs are ready to end their service to Gotnafiskr, though they all carry great Risk going forward.
-- Naardor, Embery, and Cantor have all gone to sphere to serve as advance agents for Gotnafiskr when they are ready to address the Risk Eater threat.
+- Naardor, Embery, and Cantor have all gone to Sphere to serve as advance agents for Gotnafiskr when they are ready to address the Risk Eater threat.
 - One day, in a moment of crisis, someone might discover and embrace a bit of Faelin's soul from a spirit shard in the Chamber of Need, gaining his hope and healing skills in exchange for something of their own.
 
 # Key decisions
