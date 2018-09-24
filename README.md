@@ -56,7 +56,7 @@ In this repo, we'll talk about
 - **Game Master:** the story teller and rules judge for the game who keeps it moving and play all the non-player characters (NPCs) who show up.
 - **Observers:** the people who stop to watch and listen to the game.
 - **Local game store:** where we play a game face-to-face, also called an LGS or FLGS for "friendly local game store."
-- **Rolld20.com:** where we play a game online along with some kind of conferencing software.
+- **Rolld20.net:** where we play a game online along with some kind of conferencing software.
 - **Session:** a real-world time when we play tha game, like from 2 PM to 6 PM on a Saturday afternoon.
 - **Adventure:** an episode in the game that we play through together; an adventure may last for a single session or run across many of them.
 - **Campaign:** a series of interconnected adventures that build toward climax and resolution, like a novel (campaign) made of chapters (adventure) or a movie (campaign) made of scenes (adventures).
